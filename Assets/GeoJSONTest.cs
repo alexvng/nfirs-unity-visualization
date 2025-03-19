@@ -23,26 +23,22 @@ public class GeoJSONTest : MonoBehaviour
         ProcessJSON(fc);
     }
 
-    async void ProcessJSON(FeatureCollection fc)
+    void ProcessJSON(FeatureCollection fc)
     {
         var i = 0;
         foreach (var f in fc.Features)
         {
             Point p = (Point)f.Geometry;
             var c = p.Coordinates;
-            var d = new double3(c.Longitude, c.Latitude, 0);
+            var d = new double3(c.Latitude, c.Longitude, 360);
             //print(d);
 
             var marker = Instantiate(fireMarkerPrefab);
             marker.transform.SetParent(this.transform);
             CesiumGlobeAnchor anchor = marker.GetComponent<CesiumGlobeAnchor>();
-            marker.transform.position = Vector3.zero;
-
-            Cesium3DTileset tileset = FindAnyObjectByType<Cesium3DTileset>();
-            CesiumSampleHeightResult result = await tileset.SampleHeightMostDetailed(d);
-            print(result.longitudeLatitudeHeightPositions[0]);
-            anchor.longitudeLatitudeHeight = result.longitudeLatitudeHeightPositions[0];
-            print(anchor.longitudeLatitudeHeight);
+            //marker.transform.position = Vector3.zero;
+            anchor.detectTransformChanges = false;
+            anchor.longitudeLatitudeHeight = d;
             marker.GetComponent<NFIRSView>().feature = f;
             marker.SetActive(true);
             i++;

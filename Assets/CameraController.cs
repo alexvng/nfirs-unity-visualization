@@ -9,10 +9,14 @@ public class CameraController : MonoBehaviour
     private Vector3 dragOrigin;      // Starting position of the camera on drag
     private bool isDragging = false; // Flag to check if the mouse is being dragged
 
+    public static float adjustBy = 0.05f;
+
     void Update()
     {
         HandleMouseDrag();
         HandleMouseZoom();
+        float currentZoomLevel = Mathf.Abs(transform.position.y - -14500f);
+        adjustBy = Mathf.Clamp((currentZoomLevel) / (14500), 0.05f, 1f);
     }
 
     // Handles the click-and-drag movement
@@ -25,7 +29,6 @@ public class CameraController : MonoBehaviour
             dragOrigin.x = Mouse.current.position.ReadValue().x;
             dragOrigin.z = Mouse.current.position.ReadValue().y;
             dragOrigin.y = 0; // Keep the camera in the same Z-plane
-            print("drag");
         }
 
         if (Input.GetMouseButtonUp(0))  // Stop dragging
@@ -42,7 +45,7 @@ public class CameraController : MonoBehaviour
             Vector3 delta = dragOrigin - currentMousePosition;
 
             // Move the camera based on mouse drag
-            transform.position += delta * moveSpeed * Time.deltaTime;
+            transform.position += delta * moveSpeed * Time.deltaTime * adjustBy;
             dragOrigin = currentMousePosition;
         }
     }
@@ -54,7 +57,8 @@ public class CameraController : MonoBehaviour
         if (scrollInput != 0f)
         {
             float zoomAmount = scrollInput * zoomSpeed;
-            float newY = transform.position.y - zoomAmount; // Zoom effect along the Z-axis
+
+            float newY = transform.position.y - (zoomAmount * adjustBy); // Zoom effect along the Z-axis
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }
     }
