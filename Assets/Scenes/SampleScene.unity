@@ -161,7 +161,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 286929337}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 844ac86b07dcfa3468f56da55d787510, type: 3}
   m_Name: 
@@ -326,8 +326,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 403705034}
-  m_LocalRotation: {x: -0.000000042915445, y: 4.263272e-17, z: 1.4269102e-16, w: 1}
-  m_LocalPosition: {x: -0.00038743648, y: -14522.83, z: 0.105328694}
+  m_LocalRotation: {x: -0.000000042915445, y: 4.339258e-17, z: 1.6063975e-16, w: 1}
+  m_LocalPosition: {x: -0.00038743624, y: -14522.83, z: 0.105328694}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -435,7 +435,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 403705034}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3bef32f31a547984f88be1ab98b65f04, type: 3}
   m_Name: 
@@ -458,23 +458,23 @@ MonoBehaviour:
   _localToGlobeFixedMatrix:
     c0:
       x: 0.9277229777354166
-      y: -0.3732694423358709
-      z: 0.0000000000000000839620370171001
+      y: -0.37326944233587084
+      z: 0.00000000000000008580454494607632
       w: 0
     c1:
-      x: -0.31170178898531137
-      y: -0.774702879596314
-      z: 0.5501612882496688
+      x: -0.3117017889853114
+      y: -0.7747028795963141
+      z: 0.5501612882496686
       w: 0
     c2:
-      x: 0.2053583972597381
-      y: 0.5103972685697357
-      z: 0.8350584152689349
+      x: 0.205358397259738
+      y: 0.5103972685697354
+      z: 0.835058415268935
       w: 0
     c3:
-      x: -1990250.8105084195
+      x: -1990250.810508419
       y: -4946564.595331527
-      z: 3489272.397878779
+      z: 3489272.3978787772
       w: 1
   _localToGlobeFixedMatrixIsValid: 1
 --- !u!114 &403705039
@@ -630,6 +630,8 @@ GameObject:
   - component: {fileID: 623314136}
   - component: {fileID: 623314135}
   - component: {fileID: 623314137}
+  - component: {fileID: 623314139}
+  - component: {fileID: 623314138}
   m_Layer: 0
   m_Name: FireMarkerManager
   m_TagString: Untagged
@@ -660,8 +662,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 623314134}
-  m_LocalRotation: {x: 4.0245585e-16, y: -2.0385424e-17, z: 1.613515e-16, w: 1}
-  m_LocalPosition: {x: 6.9849193e-10, y: -0.0000000037252903, z: 0.000000003259629}
+  m_LocalRotation: {x: 4.0245585e-16, y: -2.0385774e-17, z: 1.9367886e-16, w: 1}
+  m_LocalPosition: {x: 9.313226e-10, y: -0.0000000037252903, z: 0.0000000037252903}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -682,7 +684,56 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   geoJSON: {fileID: 4900000, guid: d7ccd86090ca76043ad7c7c0f2fc8aa9, type: 3}
   fireMarkerPrefab: {fileID: 933899561238126848, guid: 93c177e3c419a7a4b9b9f8c75cf77ee6, type: 3}
-  MAX_RENDER: 5000
+  MAX_RENDER: 200
+--- !u!114 &623314138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623314134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bef32f31a547984f88be1ab98b65f04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _distance: 0
+--- !u!114 &623314139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623314134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f14e1eb550b9a4fb6c0a2f0456845b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _adjustOrientationForGlobeWhenMoving: 1
+  _detectTransformChanges: 1
+  _localToGlobeFixedMatrix:
+    c0:
+      x: 0.9277229777354166
+      y: -0.37326944233587084
+      z: 0.0000000000000002251188093622029
+      w: 0
+    c1:
+      x: -0.311701771359216
+      y: -0.7747028357884587
+      z: 0.5501613599234749
+      w: 0
+    c2:
+      x: 0.20535842401337961
+      y: 0.5103973350631725
+      z: 0.835058368048098
+      w: 0
+    c3:
+      x: -1994777.6236396176
+      y: -4957815.526880823
+      z: 3497262.2098688893
+      w: 1
+  _localToGlobeFixedMatrixIsValid: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

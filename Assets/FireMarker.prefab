@@ -114,7 +114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _adjustOrientationForGlobeWhenMoving: 1
-  _detectTransformChanges: 1
+  _detectTransformChanges: 0
   _localToGlobeFixedMatrix:
     c0:
       x: 0.9764046849401992

@@ -11,6 +11,11 @@ public class CameraController : MonoBehaviour
 
     public static float adjustBy = 0.05f;
 
+    private void OnDisable()
+    {
+        adjustBy = 0.1f;
+    }
+
     void Update()
     {
         HandleMouseDrag();
@@ -59,6 +64,7 @@ public class CameraController : MonoBehaviour
             float zoomAmount = scrollInput * zoomSpeed;
 
             float newY = transform.position.y - (zoomAmount * adjustBy); // Zoom effect along the Z-axis
+            newY = Mathf.Clamp(newY, -14600f, 0f);
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }
     }
