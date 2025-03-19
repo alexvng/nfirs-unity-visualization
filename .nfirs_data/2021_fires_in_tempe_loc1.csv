@@ -1,0 +1,3491 @@
+INCIDENT_KEY,_addr,_desc,INC_DATE
+AZ_08052_01102021_21808_0,1530 W BASELINE RD Tempe AZ 85282,"Area of Origin: Other
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Human Factors #3: Unattended or unsupervised person",2021-01-10
+AZ_08293_01102021_21826_0,1530 W BASELINE RD Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Multiple areas
+Heat Source: Cigarette lighter
+Item First Ignited: Multiple items first ignited
+Type of Material: Multiple types of material
+Cause of Ignition: Intentional
+Human Factors #2: Possibly impaired by alcohol or drugs
+Human Factors #6: Multiple persons involved
+Suppression Factors #1: Doors left open or outside door unsecured
+Suppression Factors #2: Alarm System inappropriately shut off
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 14341.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Structural member or framing
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Unknown
+Detector Operation: Failed to Operate
+Detector Failure Reason: Hardwired power failure, shut-off or disconnect
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and NOT Effective
+Number of Sprinklers Operating: 1.0
+AES Failure Reason: Fire not in area protected by the system",2021-01-10
+AZ_08293_01302021_212354_0,1215 E VISTA DEL CERRO DR Tempe AZ 85281,"Number of Residential Units: 2.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Appliance housing or casing
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Human Factors #3: Unattended or unsupervised person
+Equipment Involved: Range, stove with/without oven, cooking surface
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: None Present",2021-01-30
+AZ_08052_01302021_212379_0,1215 E VISTA DEL CERRO DR Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-01-30
+AZ_08052_01312021_212473_0,1705 E LA VIEVE LN Tempe AZ 85284,"Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Appliance housing or casing
+Type of Material: Fat, grease, butter, margarine, lard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other",2021-01-31
+AZ_08293_02022021_212623_0,7250 S KYRENE RD Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Common room, den, family room, living room, lounge
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Curtains, blinds, drapery, tapestry
+Type of Material: Plastic
+Cause of Ignition: Failure of equipment or heat source
+Equipment Involved: Television
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 8000.0
+Fire Origin (starting story): 3.0
+Item Contributing Most to Spread: Curtains, blinds, drapery, tapestry
+Type Material Contributing Most To Spread: Fabric, fiber, cotton, blends, rayon, wool
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: None Present",2021-02-02
+AZ_08293_02032021_212734_0,442 W SANTA CRUZ DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Fat, grease, butter, margarine, lard
+Cause of Ignition: Unintentional
+Human Factors #1: Asleep
+Suppression Factors #1: Locked or jammed doors
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1500.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-02-03
+AZ_08293_02042021_212797_0,758 E SUNBURST LN Tempe AZ 85284,"Number of Residential Units: 2.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 3000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-02-04
+AZ_08293_02052021_212812_0,20 E 6TH ST Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 4000.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Other
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: None Present",2021-02-05
+AZ_08052_02052021_212883_0,1101 E WARNER RD Tempe AZ 85284,"Area of Origin: Vehicle storage area; garage, carport
+Heat Source: Arcing
+Item First Ignited: Interior wall covering excluding drapes, etc.
+Type of Material: Fiberboard, particleboard, and hardboard
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other",2021-02-05
+AZ_08293_02062021_212954_0,5701 S RURAL RD Tempe AZ 85283,"Number of Residential Units: 1.0
+Less Than One Acre: Y
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 100000.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire Only
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-02-06
+AZ_08293_02072021_213073_0,513 W BROADWAY RD Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Storage area, other
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 4.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 90000.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-02-07
+AZ_08293_02102021_213281_0,1711 E BROADWAY RD Tempe AZ 85282,"Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Soft goods, wearing apparel, other
+Type of Material: Fabric, textile, fur, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-02-10
+AZ_08293_02102021_213287_0,998 W WASHINGTON ST Tempe AZ 85281,"Acres Burned: 1.0
+Area of Origin: Outside area, other
+Heat Source: Heat spread from another fire, other
+Item First Ignited: Light vegetation - not crop, including grass
+Type of Material: Undetermined
+Cause of Ignition: Unintentional",2021-02-10
+AZ_08293_02122021_213433_0,2114 S FREEDOM Tempe AZ 85281,"Area of Origin: Outside area, other
+Heat Source: Hot ember or ash
+Item First Ignited: Item First Ignited, Other
+Type of Material: Wood chips, sawdust, shavings
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Outside/open fire for warming or cooking
+Human Factors #3: Unattended or unsupervised person",2021-02-12
+AZ_08293_02162021_213724_0,1106 E WEBER DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Roof surface: exterior
+Heat Source: Cigarette lighter
+Item First Ignited: Magazine, newspaper, writing paper
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Paper, including cellulose, waxed paper
+Cause of Ignition: Intentional
+Human Factors #4: Possibly mentally disabled
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1681.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-02-16
+AZ_08293_02182021_213843_0,841 W BROWN ST Tempe AZ 85281,"Number of Residential Units: 4.0
+Not Residential Flag: Y
+Area of Origin: Exterior, exposed surface
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Multiple items first ignited
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Plastic
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-02-18
+AZ_08293_02182021_213841_0,841 W BROWN ST Tempe AZ 85281,"Number of Residential Units: 4.0
+Area of Origin: Vehicle area, other
+Heat Source: Undetermined
+Item First Ignited: Multiple items first ignited
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-02-18
+AZ_08293_02182021_213857_0,2525 S RURAL RD Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 1.0
+Total Square Feet: 1.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-02-18
+AZ_08293_02202021_213992_0,101 W 5TH ST Tempe AZ 85281,"Number of Residential Units: 341.0
+Number of Buildings Involved: 1.0
+Area of Origin: Machinery room or area; elevator machinery room
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Soft goods, wearing apparel, other
+Type of Material: Fabric, fiber, cotton, blends, rayon, wool
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Human Factors #2: Possibly impaired by alcohol or drugs
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 6.0
+Building Height: Stories Below Grade: 1.0
+Total Square Feet: 590055.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Multiple detectors and power supplies
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate",2021-02-20
+AZ_08293_02202021_214009_0,1106 E WEBER DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Vehicle storage area; garage, carport
+Heat Source: Cigarette lighter
+Item First Ignited: Magazine, newspaper, writing paper
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Paper, including cellulose, waxed paper
+Cause of Ignition: Intentional
+Human Factors #4: Possibly mentally disabled
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1681.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-02-20
+AZ_08293_02212021_214091_0,1514 S PRICE RD Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation",2021-02-21
+AZ_08293_02212021_214147_0,910 N MCCLINTOCK DR Tempe AZ 85281,"Not Residential Flag: Y
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-02-21
+AZ_08293_02212021_214157_0,850 S RIVER DR Tempe AZ 85281,"Number of Residential Units: 250.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 850.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-02-21
+AZ_08293_02262021_214461_0,1243 E BISHOP DR Tempe AZ 85282,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-02-26
+AZ_08293_02282021_214608_0,260 E RIO SALADO Tempe AZ 85281,"Number of Residential Units: 100.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 100.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: Undetermined
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-02-28
+AZ_08293_02282021_214661_0,2167 E LA DONNA DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-02-28
+AZ_08293_03012021_214708_0,101 W 5TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 10000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire Only
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present",2021-03-01
+AZ_08293_03012021_214727_0,1314 E BARBARA DR Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Human Factors #6: Multiple persons involved",2021-03-01
+AZ_08293_03012021_214737_0,1243 S DORSEY LN Tempe AZ 85281,"Number of Residential Units: 6.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Food, starch, excluding fat and grease (Code 31)
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #3: Unattended or unsupervised person
+Equipment Involved: Stove, heating
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2680.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: None Present",2021-03-01
+AZ_08293_03012021_214755_0,740 S MILL AVE Tempe AZ 85281,"Number of Residential Units: 100.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 3.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-03-01
+AZ_08293_03022021_214837_0,7707 S KYRENE RD Tempe AZ 85284,"Number of Buildings Involved: 1.0
+On Site Materials #1: Construction, machinery, metals, other
+Area of Origin: Machinery room or area; elevator machinery room
+Heat Source: Spark, ember or flame from operating equipment
+Item First Ignited: Interior wall covering excluding drapes, etc.
+Type of Material: Fiberboard, particleboard, and hardboard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Cutting, welding too close to combustible
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 7000.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-03-02
+AZ_08293_03032021_214858_0,1180 E CARMEN ST Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Heat, spark from friction
+Item First Ignited: Cabinetry (including built-in)
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Equipment Involved: Power sander, grinder, buffer, polisher
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1686.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-03-03
+AZ_08293_03032021_214880_0,927 E SPENCE AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Common room, den, family room, living room, lounge
+Heat Source: Flame/torch used for lighting
+Item First Ignited: Structural component or finish, other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Intentional
+Human Factors #2: Possibly impaired by alcohol or drugs
+Human Factors #6: Multiple persons involved
+Suppression Factors #1: Previously damaged by fire
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 720.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-03-03
+AZ_08293_03052021_214996_0,927 E SPENCE AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Common room, den, family room, living room, lounge
+Heat Source: Flame/torch used for lighting
+Item First Ignited: Structural component or finish, other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Intentional
+Human Factors #2: Possibly impaired by alcohol or drugs
+Suppression Factors #1: Holes or openings in walls or ceilings
+Suppression Factors #2: Previously damaged by fire
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 720.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-03-05
+AZ_08293_03052021_215048_0,1640 N SCOTTSDALE RD Tempe AZ 85281,"Not Residential Flag: Y
+Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Soft goods, wearing apparel, other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Fabric, fiber, cotton, blends, rayon, wool
+Cause of Ignition: Unintentional
+Equipment Involved: Undetermined
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 900.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-03-05
+AZ_08293_03062021_215142_0,777 S COLLEGE AVE Tempe AZ 85281,"On Site Materials #1: Electrical: parts, supplies, equipment
+Area of Origin: Outside area, other
+Heat Source: Arcing
+Item First Ignited: Electrical wire, cable insulation
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-03-06
+AZ_08293_03072021_215172_0,2158 E APACHE Tempe AZ 85281,"Number of Residential Units: 20.0
+Number of Buildings Involved: 1.0
+Area of Origin: Common room, den, family room, living room, lounge
+Heat Source: Match
+Item First Ignited: Magazine, newspaper, writing paper
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Paper, including cellulose, waxed paper
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Undetermined
+Human Factors #2: Possibly impaired by alcohol or drugs
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 800.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Failed to Operate
+Detector Failure Reason: Battery missing or disconnected
+AES Presence: None Present",2021-03-07
+AZ_08293_03092021_215360_0,1115 E LEMON ST Tempe AZ 85281,"Number of Residential Units: 163.0
+Number of Buildings Involved: 1.0
+Area of Origin: Equipment or service area, other
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Appliance housing or casing
+Type of Material: Plywood
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Equipment not being operated properly
+Factors Contributing To Ignition #2: Heat source too close to combustibles.
+Equipment Involved: Heating, ventilating & air conditioning, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 4.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 26250.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Interior ceiling cover or finish
+Type Material Contributing Most To Spread: Plywood
+Detector Presence: None Present
+AES Presence: None Present",2021-03-09
+AZ_08293_03102021_215453_0,1235 W BASELINE RD Tempe AZ 85283,"Number of Residential Units: 50.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 500.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-03-10
+AZ_08293_03112021_215552_0,1012 W FREMONT DR Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-03-11
+AZ_08293_03232021_216503_0,525 S FOREST AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Cabinetry (including built-in)
+Type of Material: Natural product, other
+Cause of Ignition: Unintentional
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 8.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1200.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-03-23
+AZ_08293_03262021_216754_0,2130 E DUNBAR DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Arcing
+Item First Ignited: Structural component or finish, other
+Type of Material: Fiberboard, particleboard, and hardboard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment not being operated properly
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1191.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-03-26
+AZ_08293_03262021_216768_0,2150 S 55TH ST Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-03-26
+AZ_08293_03272021_216849_0,525 W 21ST ST Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+On Site Materials #1: Appliances
+Material Storage Use #1: Bulk storage or warehousing
+Area of Origin: Storage room, area, tank, or bin
+Heat Source: Cigarette lighter
+Item First Ignited: Packing, wrapping material
+Type of Material: Plastic
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Suppression Factors #1: Internal arrangement of stock or contents
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 132643.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Box, carton, bag, basket, barrel
+Type Material Contributing Most To Spread: Cardboard
+Detector Presence: Detectors Present
+Detector Type: Sprinkler, water flow detection
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 3.0",2021-03-27
+AZ_08293_03272021_216801_0,8210 S HARDY DR Tempe AZ 85284,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Flammable liquid/gas - uncontained
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Leak or break",2021-03-27
+AZ_08293_03272021_216786_0,1330 W BASELINE RD Tempe AZ 85282,"Not Residential Flag: Y
+On Site Materials #1: Lumber, sawn wood
+Material Storage Use #1: Bulk storage or warehousing
+Area of Origin: Highway, parking lot, street: on or near
+Heat Source: Cigarette lighter
+Item First Ignited: Bulk storage
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Plastic
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Undetermined",2021-03-27
+AZ_08293_03272021_216785_0,208 W SOUTHERN AVE Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+On Site Materials #1: Food, other
+Area of Origin: Display window
+Heat Source: Cigarette lighter
+Item First Ignited: Flammable liquid/gas - uncontained
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Flammable or combustible liquid, other
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 18531.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate
+Number of Sprinklers Operating: 0.0",2021-03-27
+AZ_08293_03302021_217124_0,650 N SCOTTSDALE RD Tempe AZ 85281,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from undetermined smoking material
+Item First Ignited: Flammable liquid/gas - in/from engine or burner
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-03-30
+AZ_08052_03302021_216710_0,5650 S KYRENE RD Tempe AZ 85283,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Undetermined",2021-03-30
+AZ_08293_04052021_217662_0,3402 S MCCLINTOCK DR Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-04-05
+AZ_08293_04052021_217623_0,965 E UNIVERSITY DR Tempe AZ 85281,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Human Factors #3: Unattended or unsupervised person",2021-04-05
+AZ_08293_04052021_217634_0,5869 S KYRENE RD Tempe AZ 85283,"On Site Materials #1: Undetermined
+Material Storage Use #1: Undetermined
+Area of Origin: Wall assembly
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-04-05
+AZ_08293_04062021_217737_0,914 E LEMON ST Tempe AZ 85281,"Area of Origin: Operator/passenger area of transportation equip.
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Appliance housing or casing
+Type of Material: Plastic
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Telephone or answering machine",2021-04-06
+AZ_08293_04072021_217872_0,2323 E APACHE Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-04-07
+AZ_08293_04082021_217948_0,1348 E APACHE Tempe AZ 85281,"Area of Origin: Highway, parking lot, street: on or near
+Heat Source: Undetermined
+Item First Ignited: Rubbish, trash, or waste
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation",2021-04-08
+AZ_08293_04102021_218073_0,1204 W 7TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Cooking materials, including edible materials
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Fat, grease, butter, margarine, lard
+Cause of Ignition: Unintentional
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1800.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Failed to Operate
+Detector Failure Reason: Other
+AES Presence: None Present",2021-04-10
+AZ_08293_04112021_218227_0,5038 S HARDY DR Tempe AZ 85282,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-04-11
+AZ_08293_04142021_218476_0,1220 E SPENCE AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 0.0
+Less Than One Acre: Y
+Area of Origin: Open area - outside; included are farmland, field
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Dust, fiber, lint, including sawdust and excelsior
+Type of Material: Fabric, fiber, cotton, blends, rayon, wool
+Cause of Ignition: Intentional
+Human Factors #4: Possibly mentally disabled",2021-04-14
+AZ_08293_04172021_218651_0,1876 E HAYDEN LN Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat source: other
+Item First Ignited: Appliance housing or casing
+Type of Material: Food, starch, excluding fat and grease (Code 31)
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 600.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-04-17
+AZ_08293_04202021_218972_0,2128 E CEDAR ST Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-04-20
+AZ_08293_04222021_219167_0,4605 S PRIEST DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 0.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1300.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Undetermined
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: None Present
+AES Presence: None Present",2021-04-22
+AZ_08052_04242021_218642_0,2011 E DUKE DR Tempe AZ 85283,"Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Multiple types of material
+Cause of Ignition: Cause undetermined after investigation",2021-04-24
+AZ_08293_04242021_219349_0,2011 E DUKE DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Courtyard, patio, porch, terrace
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Factors Contributing To Ignition #2: Equipment unattended
+Equipment Involved: Grill, hibachi, barbecue
+Suppression Factors #1: Significant/unusual fuel load from contents
+Suppression Factors #2: Wind, including hurricanes or tornadoes
+Fire Spread: Beyond building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2288.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Structural member or framing
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Undetermined
+Detector Failure Reason: Undetermined
+AES Presence: None Present",2021-04-24
+AZ_08293_04242021_219369_0,780 W ELLIOT RD Tempe AZ 85283,"Area of Origin: Enclosure, pressurized air
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 800.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-04-24
+AZ_08293_04252021_219465_0,1330 W BASELINE RD Tempe AZ 85282,"Not Residential Flag: Y
+Area of Origin: Highway, parking lot, street: on or near
+Heat Source: Flame/torch used for lighting
+Item First Ignited: Pallet, skid (empty)
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Intentional",2021-04-25
+AZ_08293_04282021_219694_0,2108 S RURAL RD Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Leak or break
+Human Factors #6: Multiple persons involved",2021-04-28
+AZ_08293_05012021_219956_0,2019 E APOLLO AVE Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Roof surface: exterior
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Air conditioner
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2146.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Insulation within structural area
+Type Material Contributing Most To Spread: Paper, including cellulose, waxed paper
+Detector Presence: Undetermined
+AES Presence: None Present",2021-05-01
+AZ_08052_05042021_219372_0,309 W ELLIOT RD Tempe AZ 85284,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-05-04
+AZ_08293_05052021_2110346_0,708 E COLGATE DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Other
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-05-05
+AZ_08293_05062021_2110495_0,1525 W ELLIOT RD Tempe AZ 85284,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-05-06
+AZ_08293_05092021_2110732_0,2030 E APACHE Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 3000.0
+Fire Origin (starting story): 0.0
+Detector Presence: None Present
+AES Presence: None Present",2021-05-09
+AZ_08293_05092021_2110774_0,2526 S LOS FELIZ DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Organic materials, other
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1910.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Exterior trim, including doors
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-05-09
+AZ_08293_05092021_2110789_0,1289 W 5TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-05-09
+AZ_08293_05102021_2110893_0,5076 S PRICE RD Tempe AZ 85282,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-05-10
+AZ_08293_05102021_2110827_0,2232 E APACHE Tempe AZ 85281,"Number of Residential Units: 0.0
+Number of Buildings Involved: 2.0
+On Site Materials #1: Lumber, sawn wood
+Area of Origin: Vacant structural area
+Heat Source: Flame/torch used for lighting
+Item First Ignited: Structural component or finish, other
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Beyond building of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 1.0
+Total Square Feet: 960.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-05-10
+AZ_08293_05112021_2110995_0,808 S RURAL RD Tempe AZ 85281,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Roof surface: exterior
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: Under construction
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 291000.0
+Fire Origin (starting story): 5.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Multiple detectors and power supplies
+Detector Operation: Undetermined
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Undetermined",2021-05-11
+AZ_08293_05122021_2111106_0,1866 E PALMCROFT DR Tempe AZ 85282,"Area of Origin: Outside area, other
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Upholstered sofa, chair, vehicle seats
+Type of Material: Wood or paper, processed, other
+Cause of Ignition: Cause undetermined after investigation",2021-05-12
+AZ_08293_05122021_2111066_0,920 E PLAYA DEL NORTE DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Outside area, other
+Heat Source: Heat source: other
+Item First Ignited: Light vegetation - not crop, including grass
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-05-12
+AZ_08293_05122021_2111046_0,1700 E DON CARLOS AVE Tempe AZ 85281,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other",2021-05-12
+AZ_08293_05132021_2111122_0,2087 E LEMON ST Tempe AZ 85281,"Number of Residential Units: 4.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 2.0
+Detector Presence: Undetermined
+AES Presence: None Present",2021-05-13
+AZ_08293_05192021_2111790_0,670 N SCOTTSDALE RD Tempe AZ 85281,"Number of Residential Units: 103.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Flame/torch used for lighting
+Item First Ignited: Bedding; blanket, sheet, comforter
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Fabric, fiber, cotton, blends, rayon, wool
+Cause of Ignition: Unintentional
+Human Factors #2: Possibly impaired by alcohol or drugs
+Equipment Involved: Cigarette lighter, pipe lighter
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 4.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 12200.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 2.0",2021-05-19
+AZ_08293_05222021_2111989_0,1975 E WILDERMUTH AVE Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-05-22
+AZ_08293_05282021_2112555_0,1106 E BROADWAY RD Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-05-28
+AZ_08052_05292021_2111311_0,2045 E BROADWAY RD Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-05-29
+AZ_08293_05292021_2112664_0,2045 E BROADWAY RD Tempe AZ 85282,"Number of Residential Units: 12.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Stove, heating
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 14200.0
+Fire Origin (starting story): 2.0
+Item Contributing Most to Spread: Cabinetry (including built-in)
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Undetermined
+AES Presence: None Present",2021-05-29
+AZ_08293_05292021_2112650_0,510 S FOREST AVE Tempe AZ 85281,"Number of Residential Units: 181.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment unattended
+Equipment Involved: Stove, heating
+Suppression Factors #1: Delayed reporting of fire
+Suppression Factors #2: Size, height, or other building characteristic
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 11.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 146610.0
+Fire Origin (starting story): 6.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate",2021-05-29
+AZ_08293_05312021_2112875_0,5075 S PRIEST DR Tempe AZ 85282,"Number of Residential Units: 28.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment unattended
+Human Factors #1: Asleep
+Equipment Involved: Range, stove with/without oven, cooking surface
+Suppression Factors #1: Delayed detection of fire
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 15986.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 2.0",2021-05-31
+AZ_08293_06012021_2112950_0,30 W CARTER DR Tempe AZ 85282,"Number of Residential Units: 4.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Goods not made up, including fabrics & yard goods
+Type of Material: Food, starch, excluding fat and grease (Code 31)
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 6400.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-06-01
+AZ_08293_06022021_2113001_0,1126 E BLUEBELL LN Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Spark, ember or flame from operating equipment
+Item First Ignited: Atomized liquid, vaporized liquid, aerosol.
+Type of Material: Flammable gas, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #4: Possibly mentally disabled",2021-06-02
+AZ_08293_06022021_2113011_0,2402 E 5TH ST Tempe AZ 85281,"Number of Residential Units: 3.0
+Number of Buildings Involved: 1.0
+Area of Origin: Exterior balcony, unenclosed porch
+Heat Source: Cigarette
+Item First Ignited: Agricultural crop, including fruits and vegetables
+Type of Material: Grain, natural fiber,  (preprocess)
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1088.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Combination smoke - heat
+Detector Power: Hardwire with battery
+Detector Operation: Failed to Operate
+Detector Failure Reason: Hardwired power failure, shut-off or disconnect
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-06-02
+AZ_08293_06032021_2113090_0,7242 S TERRACE RD Tempe AZ 85283,"Number of Residential Units: 0.0
+Number of Buildings Involved: 0.0
+Area of Origin: Equipment or service area, other
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Appliance housing or casing
+Type of Material: Multiple types of material
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other",2021-06-03
+AZ_08293_06042021_2113140_0,2150 E ORANGE ST Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-06-04
+AZ_08293_06052021_2113277_0,6611 S RURAL RD Tempe AZ 85283,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Structure Type: Structure type, other",2021-06-05
+AZ_08293_06052021_2113350_0,5440 S MCCLINTOCK DR Tempe AZ 85283,"Not Residential Flag: Y
+Less Than One Acre: Y
+Area of Origin: Highway, parking lot, street: on or near
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-06-05
+AZ_08293_06072021_2113513_0,535 W 15TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Not Residential Flag: Y
+Less Than One Acre: Y
+Area of Origin: Open area - outside; included are farmland, field
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation",2021-06-07
+AZ_08293_06092021_2113706_0,915 E BASELINE RD Tempe AZ 85283,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-06-09
+AZ_08293_06102021_2113802_0,1311 W BASELINE RD Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Corridor, mall
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Structural component or finish, other
+Type of Material: Flammable gas, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #1: Asleep
+Fire Spread: Confined to room of origin
+Structure Type: Fixed portable or mobile structure
+Structure Status: Under construction
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 1.0
+Total Square Feet: 1.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-06-10
+AZ_08293_06122021_2113969_0,1525 E BASELINE RD Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Other
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Cause undetermined after investigation",2021-06-12
+AZ_08293_06162021_2114276_0,528 W 21ST ST Tempe AZ 85282,"On Site Materials #1: Machinery, tools, other
+Material Storage Use #1: Processing or manufacturing
+Area of Origin: Heating room or area, water heater area
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Appliance housing or casing
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 20000.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Combination smoke - heat
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-06-16
+AZ_08293_06162021_2114354_0,909 W GROVE Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Structural area, other
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Soft goods, wearing apparel, other
+Type of Material: Fabric, textile, fur, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Other
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-06-16
+AZ_08293_06172021_2114409_0,1984 E 5TH ST Tempe AZ 85281,"Area of Origin: Cargo/trunk area - all vehicles
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-06-17
+AZ_08293_06172021_2114493_0,1876 E AUBURN DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Courtyard, patio, porch, terrace
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Suppression Factors #1: Roof assembly combustible
+Suppression Factors #2: Significant/unusual fuel load from contents
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2684.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Structural member or framing
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Undetermined
+AES Presence: None Present",2021-06-17
+AZ_08293_06182021_2114515_0,2401 W SOUTHERN AVE Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Fire Spread: Confined to building of origin
+Structure Type: Open structure
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 800.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-06-18
+AZ_08293_06202021_2114781_0,960 E UNIVERSITY DR Tempe AZ 85281,"Area of Origin: Cargo/trunk area - all vehicles
+Heat Source: Heat source: other
+Item First Ignited: Upholstered sofa, chair, vehicle seats
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-06-20
+AZ_08293_06212021_2114868_0,1039 W YALE DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Duct: hvac, cable, exhaust, heating, or AC
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Pipe, duct, conduit or hose
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1300.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-06-21
+AZ_08293_06212021_2114926_0,26 W SECRETARIAT DR Tempe AZ 85284,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Attic: vacant, crawl space above top story, cupola
+Heat Source: Heat source: other
+Item First Ignited: Structural member or framing
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2200.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Undetermined
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: None Present",2021-06-21
+AZ_08293_06232021_2115125_0,416 E DEL RIO DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Fire Spread: Confined to floor of origin
+Structure Type: Structure type, other
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1200.0
+Fire Origin (starting story): 1.0",2021-06-23
+AZ_08293_06232021_2115165_0,1700 E DON CARLOS AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 700.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-06-23
+AZ_08293_06282021_2115593_0,2404 W 12TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Outside area, other
+Heat Source: Match
+Item First Ignited: Tarpaulin or tent
+Type of Material: Fabric, textile, fur, other
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Beyond building of origin
+Structure Type: Tent
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Item Contributing Most to Spread: Furniture, utensils, other
+Type Material Contributing Most To Spread: Fabric, textile, fur, other
+Detector Presence: None Present
+AES Presence: None Present",2021-06-28
+AZ_08293_06292021_2115742_0,2121 S RURAL RD Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation",2021-06-29
+AZ_08293_07042021_2116222_0,1727 E LAGUNA DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-07-04
+AZ_08293_07042021_2116214_0,615 W YALE DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Not Residential Flag: Y
+Less Than One Acre: Y
+Area of Origin: Outside area, other
+Heat Source: Explosive, fireworks, other
+Item First Ignited: Light vegetation - not crop, including grass
+Type of Material: Natural product, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #6: Multiple persons involved
+Suppression Factors #1: Violation of fire, building or life safety code",2021-07-04
+AZ_08293_07042021_2116122_0,1886 E DON CARLOS AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Other
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Present",2021-07-04
+AZ_08293_07052021_2116236_0,3301 S TERRACE RD Tempe AZ 85282,"Area of Origin: Outside area, other
+Heat Source: Undetermined
+Item First Ignited: Rubbish, trash, or waste
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-07-05
+AZ_08293_07072021_2116487_0,1509 E WATSON DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 0.0
+Area of Origin: Courtyard, patio, porch, terrace
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Flammable liquid/gas - uncontained
+Type of Material: LP gas
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Installation deficiency",2021-07-07
+AZ_08293_07082021_2116546_0,2925 S ROOSEVELT ST Tempe AZ 85282,"On Site Materials #1: On-site materials, other
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat source: other
+Item First Ignited: Flammable liquid/gas - in/from engine or burner
+Type of Material: Flammable gas, other
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-07-08
+AZ_08293_07112021_2116903_0,1635 N SCOTTSDALE RD Tempe AZ 85281,"Not Residential Flag: Y
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-07-11
+AZ_08293_07122021_2116961_0,702 W WASHINGTON ST Tempe AZ 85281,"Number of Buildings Involved: 0.0
+Area of Origin: Outside area, other
+Heat Source: Undetermined
+Item First Ignited: Light vegetation - not crop, including grass
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-07-12
+AZ_08293_07132021_2117069_0,1110 E GILBERT DR Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2580.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-07-13
+AZ_08293_07132021_2117115_0,1155 W ELLIOT RD Tempe AZ 85284,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-07-13
+AZ_08293_07152021_2117256_0,1856 E APACHE BLVD Tempe AZ 85281,"Less Than One Acre: Y
+Area of Origin: Open area - outside; included are farmland, field
+Heat Source: Arcing
+Item First Ignited: Electrical wire, cable insulation
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Plastic
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other
+Equipment Involved: Electric meter, meter box
+Fire Spread: Confined to object of origin
+Structure Type: Structure type, other
+Detector Presence: None Present
+AES Presence: None Present",2021-07-15
+AZ_08293_07162021_2117324_0,604 E GRACE DR Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined
+Structure Type: Structure type, other",2021-07-16
+AZ_08293_07202021_2117740_0,2615 S DORSEY LN Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Undetermined
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 51600.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Failed to Operate",2021-07-20
+AZ_08293_07212021_2117817_0,3730 S MILL AVE Tempe AZ 85282,"Number of Residential Units: 12.0
+Number of Buildings Involved: 1.0
+Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Washer/dryer combination (within one frame)
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 22550.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-07-21
+AZ_08293_07232021_2118081_0,1841 E HERMOSA DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 0.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2500.0
+Fire Origin (starting story): 0.0
+Detector Presence: None Present
+AES Presence: None Present",2021-07-23
+AZ_08052_07242021_2115440_0,6748 S DORSEY LN Tempe AZ 85283,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation",2021-07-24
+AZ_08293_07242021_2118105_0,6748 S DORSEY LN Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Vehicle storage area; garage, carport
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Structural component or finish, other
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Short circuit arc from defective, worn insulation
+Equipment Involved: Electrical wiring, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 0.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2000.0
+Fire Origin (starting story): 0.0
+Detector Presence: Undetermined
+AES Presence: None Present",2021-07-24
+AZ_08293_07242021_2118148_0,4630 S LAKESHORE DR Tempe AZ 85282,"Number of Residential Units: 0.0
+Not Residential Flag: Y
+Number of Buildings Involved: 0.0
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from undetermined smoking material
+Item First Ignited: Multiple items first ignited
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other",2021-07-24
+AZ_08293_07262021_2118339_0,2568 N SARATOGA ST Tempe AZ 85281,"On Site Materials #1: Undetermined
+Material Storage Use #1: Undetermined
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-07-26
+AZ_08293_07262021_2118352_0,1053 W FOGAL Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Roof surface: exterior
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Transformer, including transformer fluids
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Failed to Operate
+Detector Failure Reason: Battery missing or disconnected
+AES Presence: None Present",2021-07-26
+AZ_08293_07282021_2118541_0,740 W UNIVERSITY DR Tempe AZ 85281,"Number of Residential Units: 0.0
+Not Residential Flag: Y
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-07-28
+AZ_08293_07282021_2118517_0,1717 S DORSEY LN Tempe AZ 85281,"Number of Residential Units: 0.0
+Area of Origin: Vehicle storage area; garage, carport
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Unintentional",2021-07-28
+AZ_08293_07292021_2118589_0,1971 E KRISTA Tempe AZ 85284,"Number of Residential Units: 1.0
+Area of Origin: Duct: hvac, cable, exhaust, heating, or AC
+Heat Source: Arcing
+Item First Ignited: Electrical wire, cable insulation
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2200.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-07-29
+AZ_08293_07312021_2118864_0,1949 E UNIVERSITY DR Tempe AZ 85281,"Number of Residential Units: 0.0
+Number of Buildings Involved: 4.0
+Area of Origin: Storage room, area, tank, or bin
+Heat Source: Undetermined
+Item First Ignited: Floor covering or rug/carpet/mat
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 4.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 536161.0
+Fire Origin (starting story): 4.0
+Item Contributing Most to Spread: Floor covering or rug/carpet/mat
+Type Material Contributing Most To Spread: Fabric, fiber, cotton, blends, rayon, wool
+Detector Presence: None Present
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate",2021-07-31
+AZ_08293_08032021_2119084_0,1001 W LAGUNA DR Tempe AZ 85282,"Number of Residential Units: 2.0
+Number of Buildings Involved: 0.0
+Acres Burned: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-08-03
+AZ_08293_08052021_2119322_0,1380 W ELLIOT RD Tempe AZ 85283,"Area of Origin: Operator/passenger area of transportation equip.
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Upholstered sofa, chair, vehicle seats
+Type of Material: Fabric, textile, fur, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.",2021-08-05
+AZ_08293_08062021_2119350_0,405 W 7TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Heat source: other
+Item First Ignited: Appliance housing or casing
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Failed to Operate
+Detector Failure Reason: Battery missing or disconnected
+AES Presence: None Present",2021-08-06
+AZ_08293_08082021_2119618_0,2076 E DON CARLOS AVE Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined
+Structure Type: Structure type, other",2021-08-08
+AZ_08293_08082021_2119619_0,244 E CONCORDA DR Tempe AZ 85282,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Open platform
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 0.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 0.0
+Fire Origin (starting story): 0.0
+Detector Presence: None Present
+AES Presence: None Present",2021-08-08
+AZ_08293_08092021_2119669_0,1412 E DRAKE DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Outside area, other
+Heat Source: Undetermined
+Item First Ignited: Light vegetation - not crop, including grass
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-08-09
+AZ_08293_08092021_2119717_0,2160 E ELLIS DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bathroom, checkroom, lavatory, locker room
+Heat Source: Arcing
+Item First Ignited: Item First Ignited, Other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Plastic
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other
+Equipment Involved: Outlet, receptacle
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1565.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Failed to Operate
+Detector Failure Reason: Battery discharged or dead
+AES Presence: None Present",2021-08-09
+AZ_08293_08142021_2120134_0,6000 S LAKESHORE DR Tempe AZ 85283,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Assembly area - less than 100 persons
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Plastic
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other
+Equipment Involved: Battery charger, rectifier
+Suppression Factors #1: Trouble finding location
+Suppression Factors #2: Secured area
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 83000.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Cabinetry (including built-in)
+Type Material Contributing Most To Spread: Fiberboard, particleboard, and hardboard
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-08-14
+AZ_08293_08162021_2120353_0,E ELLIOT RD Tempe AZ 85283,"On Site Materials #1: Gasoline, diesel fuel
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Electrical wire, cable insulation
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other",2021-08-16
+AZ_08293_08202021_2120737_0,1701 E 8TH ST Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-08-20
+AZ_08293_08202021_2120755_0,1701 E 8TH ST Tempe AZ 85281,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-08-20
+AZ_08293_08202021_2120839_0,2026 S HAMMOND DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Packing, wrapping material
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Plastic
+Cause of Ignition: Unintentional
+Human Factors #3: Unattended or unsupervised person
+Equipment Involved: Range, stove with/without oven, cooking surface
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-08-20
+AZ_08293_08212021_2120918_0,2081 E ORANGE ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Structure Type: Structure type, other",2021-08-21
+AZ_08293_08212021_2120941_0,1900 E APACHE Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 750.0
+Fire Origin (starting story): 5.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-08-21
+AZ_08293_08222021_2121002_0,615 E TULANE DR Tempe AZ 85283,"Number of Residential Units: 4.0
+Area of Origin: Display window
+Heat Source: Spark, ember or flame from operating equipment
+Item First Ignited: Curtains, blinds, drapery, tapestry
+Type of Material: Flammable gas, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Human Factors #3: Unattended or unsupervised person",2021-08-22
+AZ_08293_08232021_2121092_0,3134 S EVERGREEN RD Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 0.0
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Undetermined
+Item First Ignited: Electrical wire, cable insulation
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Plastic
+Cause of Ignition: Unintentional",2021-08-23
+AZ_08293_08232021_2121120_0,800 E SOUTHERN AVE Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Corridor, mall
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Non-upholstered chair, bench
+Type of Material: Natural gas
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #2: Possibly impaired by alcohol or drugs",2021-08-23
+AZ_08293_08232021_2121127_0,1730 E APACHE Tempe AZ 85281,"Number of Buildings Involved: 0.0
+Area of Origin: Chute/container - trash, rubbish, waste
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products",2021-08-23
+AZ_08293_08242021_2121236_0,730 E MCKELLIPS RD Tempe AZ 85281,"Number of Residential Units: 0.0
+Area of Origin: Duct: hvac, cable, exhaust, heating, or AC
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 40.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-08-24
+AZ_08293_08252021_2121315_0,612 W 3RD ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Other
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Structure Type: Structure type, other",2021-08-25
+AZ_08293_08282021_2121631_0,520 E BALBOA DR Tempe AZ 85282,"Number of Residential Units: 3.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other",2021-08-28
+AZ_08293_08282021_2121639_0,324 E WEBER DR Tempe AZ 85281,"Number of Residential Units: 30.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Outside/open fire for warming or cooking",2021-08-28
+AZ_08293_08292021_2121759_0,1975 E WILDERMUTH AVE Tempe AZ 85281,"On Site Materials #1: Undetermined
+Material Storage Use #1: Undetermined
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-08-29
+AZ_08293_08302021_2121857_0,260 E RIO SALADO Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 7.0
+Building Height: Stories Below Grade: 1.0
+Total Square Feet: 900.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-08-30
+AZ_08293_08302021_2121863_0,54 W 1ST ST Tempe AZ 85281,"Not Residential Flag: Y
+Area of Origin: Outside area, other
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-08-30
+AZ_08293_08302021_2121780_0,610 E GILBERT DR Tempe AZ 85281,"Number of Residential Units: 88.0
+Area of Origin: Function area, other
+Heat Source: Arcing
+Item First Ignited: Undetermined
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Electrical branch circuit
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1100.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-08-30
+AZ_08293_09062021_2122513_0,1975 E APACHE Tempe AZ 85281,"Number of Residential Units: 20.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-09-06
+AZ_08293_09062021_2122451_0,1900 E APACHE Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Cooking materials, including edible materials
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Human Factors #1: Asleep
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 4.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 700.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate",2021-09-06
+AZ_08293_09072021_2122543_0,5101 S MILL AVE Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 0.0
+Area of Origin: Operator/passenger area of transportation equip.
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-09-07
+AZ_08293_09122021_2123132_0,1145 W BASELINE RD Tempe AZ 85283,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-09-12
+AZ_08293_09132021_2123167_0,1655 E UNIVERSITY DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment not being operated properly
+Human Factors #3: Unattended or unsupervised person
+Equipment Involved: Range, stove with/without oven, cooking surface
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1115.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Cooking materials, including edible materials
+Type Material Contributing Most To Spread: Cooking oil, transformer or lubricating oil
+Detector Presence: Detectors Present
+Detector Type: Sprinkler, water flow detection
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-09-13
+AZ_08293_09152021_2123379_0,1876 E BROADWAY RD Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-09-15
+AZ_08293_09212021_2123967_0,7530 S PRIEST DR Tempe AZ 85283,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+On Site Materials #1: Foods, beverages, agriculture, other
+Area of Origin: Bathroom, checkroom, lavatory, locker room
+Heat Source: Heat source: other
+Item First Ignited: Multiple items first ignited
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Human Factors #2: Possibly impaired by alcohol or drugs
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 3600.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-09-21
+AZ_08293_09252021_2124369_0,1814 E APACHE Tempe AZ 85281,"Number of Residential Units: 50.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-09-25
+AZ_08293_09252021_2124442_0,1625 S 52ND ST Tempe AZ 85281,"Number of Residential Units: 80.0
+Number of Buildings Involved: 1.0
+Area of Origin: Corridor, mall
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Interior wall covering excluding drapes, etc.
+Type of Material: Plastic
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Equipment Involved: Air conditioner
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1800.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-09-25
+AZ_08293_09262021_2124481_0,7700 S PRIEST DR Tempe AZ 85284,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2500.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire Only
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-09-26
+AZ_08293_09262021_2124531_0,2035 E MYRNA LN Tempe AZ 85284,"Number of Residential Units: 1.0
+Area of Origin: Dining room, cafeteria bar area, beverage service
+Heat Source: Candle
+Item First Ignited: Furniture, utensils, other
+Type of Material: Wood or paper, processed, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 5000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Combination smoke - heat
+Detector Power: Mechanical
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-09-26
+AZ_08293_09262021_2124538_0,2155 S 55TH ST Tempe AZ 85282,"Number of Residential Units: 18.0
+Number of Buildings Involved: 1.0
+Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Wearing apparel not on a person
+Type of Material: Fabric, fiber, cotton, blends, rayon, wool
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 400.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-09-26
+AZ_08293_09272021_2124555_0,2700 W BASELINE RD Tempe AZ 85282,"On Site Materials #1: Foods, beverages, agriculture, other
+Area of Origin: Machinery room or area; elevator machinery room
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Conveyor belt, drive belt, V-belt
+Cause of Ignition: Failure of equipment or heat source
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 54100.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-09-27
+AZ_08293_09272021_2124568_0,1500 N SCOVEL ST Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 0.0
+Fire Origin (starting story): 1.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-09-27
+AZ_08293_09302021_2124836_0,2126 S STANLEY PL Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-09-30
+AZ_08293_01012021_21070_0,2715 S HARDY DR Tempe AZ 85282,"Not Residential Flag: Y
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Undetermined
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other",2021-10-01
+AZ_08293_10022021_2125056_0,1131 E BISHOP DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Courtyard, patio, porch, terrace
+Heat Source: Undetermined
+Item First Ignited: Soft goods, wearing apparel, other
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1200.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Undetermined
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Undetermined
+AES Presence: None Present",2021-10-02
+AZ_08293_10062021_2125390_0,815 E BASELINE RD Tempe AZ 85283,"Number of Residential Units: 0.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Furniture, utensils, other
+Type of Material: Plastic
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2500.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire Only
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present",2021-10-06
+AZ_08293_10072021_2125508_0,950 S MILL AVE Tempe AZ 85281,"Area of Origin: Highway, parking lot, street: on or near
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Rubbish, trash, or waste
+Type of Material: Multiple types of material
+Cause of Ignition: Intentional
+Human Factors #2: Possibly impaired by alcohol or drugs",2021-10-07
+AZ_08293_01072021_21537_0,1455 E CEDAR ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-10-07
+AZ_08293_01072021_21583_0,650 E TYLER ML Tempe AZ 85281,"On Site Materials #1: Undetermined
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 0.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 0.0
+Fire Origin (starting story): 0.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-10-07
+AZ_08293_10082021_2125581_0,960 W UNIVERSITY DR Tempe AZ 85281,"Not Residential Flag: Y
+Number of Buildings Involved: 0.0
+Area of Origin: Highway, parking lot, street: on or near
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Rubbish, trash, or waste
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Cardboard
+Cause of Ignition: Intentional
+Human Factors #3: Unattended or unsupervised person",2021-10-08
+AZ_08293_10082021_2125587_0,1508 E BELL DE MAR DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Heating room or area, water heater area
+Heat Source: Arcing
+Item First Ignited: Electrical wire, cable insulation
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Unspecified short-circuit arc
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1500.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-10-08
+AZ_08293_01082021_21671_0,4404 S POPLAR ST Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Other
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Wood or paper, processed, other
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Manual control failure
+Human Factors #3: Unattended or unsupervised person",2021-10-08
+AZ_08293_10092021_2125693_0,1216 E VISTA DEL CERRO DR Tempe AZ 85281,"Area of Origin: Outside area, other
+Heat Source: Match
+Item First Ignited: Rubbish, trash, or waste
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Human Factors #2: Possibly impaired by alcohol or drugs",2021-10-09
+AZ_08293_10122021_2126052_0,2180 E BROADWAY RD Tempe AZ 85281,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-10-12
+AZ_08293_10132021_2126116_0,8205 S PRIEST DR Tempe AZ 85284,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-10-13
+AZ_08293_10132021_2126093_0,1795 E UNIVERSITY DR Tempe AZ 85281,"Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Flammable liquid/gas - in/from engine or burner
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Flammable gas, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Flammable liquid or gas spilled
+Human Factors #3: Unattended or unsupervised person",2021-10-13
+AZ_08293_10182021_2126600_0,508 E TAYLOR ST Tempe AZ 85281,"Number of Residential Units: 0.0
+Area of Origin: Separate operator/control area of transportation
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Electrical wire, cable insulation
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other",2021-10-18
+AZ_08293_10192021_2126717_0,2340 E UNIVERSITY DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-10-19
+AZ_08293_10192021_2126694_0,909 W GROVE Tempe AZ 85283,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined",2021-10-19
+AZ_08293_10192021_2126670_0,2165 W 15TH ST Tempe AZ 85281,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-10-19
+AZ_08293_10202021_2126845_0,1820 E BELL DE MAR DR Tempe AZ 85283,"Number of Residential Units: 0.0
+Not Residential Flag: Y
+Acres Burned: 0.0
+Area of Origin: Engine area, running gear, wheel area
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Natural gas
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-10-20
+AZ_08293_10222021_2126965_0,1811 E APACHE Tempe AZ 85281,"Number of Residential Units: 408.0
+Number of Buildings Involved: 1.0
+Area of Origin: Interior stairway or ramp
+Heat Source: Undetermined
+Item First Ignited: Item First Ignited, Other
+Type of Material: Plastic
+Cause of Ignition: Intentional
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 294922.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate
+Number of Sprinklers Operating: 0.0",2021-10-22
+AZ_08293_10272021_2127531_0,1020 E GILBERT DR Tempe AZ 85281,"Not Residential Flag: Y
+Number of Buildings Involved: 0.0
+Less Than One Acre: Y
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Structure Type: Structure type, other",2021-10-27
+AZ_08293_10302021_2127825_0,1510 S PRICE RD Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Box, carton, bag, basket, barrel
+Type of Material: Cardboard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Accidentally turned on, not turned off
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: None Present",2021-10-30
+AZ_08293_11012021_2128038_0,1711 E BROADWAY RD Tempe AZ 85282,"Area of Origin: Laundry area, wash house (laundry)
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2500.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: Present",2021-11-01
+AZ_08293_11022021_2128067_0,1815 E ELLIOT RD Tempe AZ 85284,"Not Residential Flag: Y
+Area of Origin: Cooking area, kitchen
+Heat Source: Undetermined
+Item First Ignited: Linen; other than bedding
+Type of Material: Fabric, fiber, cotton, blends, rayon, wool
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Clothes dryer
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 3459.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-11-02
+AZ_08293_01122021_21918_0,3330 S PRICE RD Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Chute/container - trash, rubbish, waste
+Heat Source: Molten, hot material
+Item First Ignited: Rubbish, trash, or waste
+Type of Material: Multiple types of material
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Factors Contributing To Ignition #2: Abandoned or discarded materials or products
+Suppression Factors #1: Automatic fire supression system problem.
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 10850.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Box, carton, bag, basket, barrel
+Type Material Contributing Most To Spread: Plastic
+Detector Presence: Detectors Present
+Detector Type: Sprinkler, water flow detection
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and NOT Effective
+Number of Sprinklers Operating: 2.0
+AES Failure Reason: Lack of maintenance, including corrosion or heads",2021-11-02
+AZ_08293_11032021_2128163_0,700 W RIO SALADO DR Tempe AZ 85281,"Area of Origin: Open area - outside; included are farmland, field
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Book
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Human Factors #6: Multiple persons involved",2021-11-03
+AZ_08293_11042021_2128301_0,999 E BASELINE RD Tempe AZ 85283,"Number of Residential Units: 15.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 12000.0
+Fire Origin (starting story): 0.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-11-04
+AZ_08293_11042021_2128271_0,2145 E UNIVERSITY DR Tempe AZ 85281,"Area of Origin: Cooking area, kitchen
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Fat, grease, butter, margarine, lard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 1.0
+Total Square Feet: 3000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Plug in with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-11-04
+AZ_08293_11042021_2128324_0,1222 W BASELINE RD Tempe AZ 85282,"Number of Residential Units: 2.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Cooking materials, including edible materials
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment unattended
+Factors Contributing To Ignition #2: Accidentally turned on, not turned off
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Fixed portable or mobile structure
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 600.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: None Present",2021-11-04
+AZ_08293_11042021_2128325_0,5000 S ARIZONA MILLS Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+On Site Materials #1: Mixed sales products, other
+Material Storage Use #1: Packaged goods for sale
+Area of Origin: Egress/exit, other
+Heat Source: Match
+Item First Ignited: Rubbish, trash, or waste
+Type of Material: Wood or paper, processed, other
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1238193.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Rubbish, trash, or waste
+Type Material Contributing Most To Spread: Wood or paper, processed, other
+Detector Presence: Detectors Present
+Detector Type: More than 1 type present
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Fire too small to Operate",2021-11-04
+AZ_08293_01152021_211240_0,501 E BALBOA DR Tempe AZ 85282,"Number of Residential Units: 0.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #3: Unattended or unsupervised person",2021-11-05
+AZ_08293_01162021_211355_0,525 S MILL AVE Tempe AZ 85281,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Roof surface: exterior
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Undetermined
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Worn out
+Equipment Involved: Heating, ventilating & air conditioning, other
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 5181.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Sprinkler, water flow detection
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Failed to Operate
+AES Failure Reason: Fire not in area protected by the system",2021-11-06
+AZ_08293_11072021_2128608_0,1102 W SOUTHERN AVE Tempe AZ 85282,"On Site Materials #1: Electronic: parts, supplies, equipment
+Area of Origin: Duct: hvac, cable, exhaust, heating, or AC
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Human Factors #6: Multiple persons involved
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 10000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-11-07
+AZ_08293_11072021_2128639_0,1375 W 14TH ST Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Open area - outside; included are farmland, field
+Heat Source: Multiple heat sources including multiple ignitions
+Item First Ignited: Pallet, skid (empty)
+Type of Material: Flammable gas, other
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Human Factors #6: Multiple persons involved",2021-11-07
+AZ_08293_11072021_2128567_0,8565 S JUNIPER ST Tempe AZ 85284,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional",2021-11-07
+AZ_08293_11072021_2128625_0,1899 E WATSON DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-11-07
+AZ_08052_01182021_211471_0,6445 S MAPLE AVE Tempe AZ 85283,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-11-08
+AZ_08293_01182021_211499_0,6445 S MAPLE AVE Tempe AZ 85283,"Number of Residential Units: 6.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Pipe or cigar
+Item First Ignited: Multiple items first ignited
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Factors Contributing To Ignition #2: Heat source too close to combustibles.
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 8000.0
+Fire Origin (starting story): 2.0
+Item Contributing Most to Spread: Furniture, utensils, other
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-11-08
+AZ_08293_01192021_211561_0,400 W BASELINE RD Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Equipment Involved: Undetermined
+Fire Spread: Confined to floor of origin
+Structure Type: Fixed portable or mobile structure
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1220.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Multiple items first ignited
+Type Material Contributing Most To Spread: Multiple types of material
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Failed to Operate
+Detector Failure Reason: Other
+AES Presence: None Present",2021-11-09
+AZ_08293_01192021_211535_0,3918 S OAK ST Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Attic: vacant, crawl space above top story, cupola
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Structural member or framing
+Type of Material: Sawn wood, including all finished lumber
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1993.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Structural member or framing
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-11-09
+AZ_08293_11102021_2128910_0,2260 W BASELINE RD Tempe AZ 85282,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-11-10
+AZ_08293_11132021_2129133_0,3306 S KENWOOD LN Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Vehicle storage area; garage, carport
+Heat Source: Heat from undetermined smoking material
+Item First Ignited: Item First Ignited, Other
+Type of Material: Natural product, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2362.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-11-13
+AZ_08293_11182021_2129590_0,1030 W 23RD ST Tempe AZ 85282,"Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+On Site Materials #1: Fat/cooking grease, including lard & animal fat
+Material Storage Use #1: Processing or manufacturing
+On Site Materials #2: Baked goods
+Material Storage Use #2: Bulk storage or warehousing
+Area of Origin: Processing/manufacturing area, workroom
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Fat, grease, butter, margarine, lard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Failure to clean
+Factors Contributing To Ignition #2: Installation deficiency
+Equipment Involved: Deep fryer
+Suppression Factors #1: Ducts: vertical
+Suppression Factors #2: Delayed reporting of fire
+Suppression Factors #3: Automatic fire supression system problem.
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 37000.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Cooking materials, including edible materials
+Type Material Contributing Most To Spread: Cooking oil, transformer or lubricating oil
+Detector Presence: Detectors Present
+Detector Type: Heat
+Detector Power: Mechanical
+Detector Operation: Failed to Operate
+Detector Failure Reason: Lack of cleaning
+AES Presence: Present
+AES Type: Other
+AES Operation: Failed to Operate
+Number of Sprinklers Operating: 0.0
+AES Failure Reason: Lack of maintenance, including corrosion or heads",2021-11-18
+AZ_08293_11182021_2129546_0,2148 E APACHE Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-11-18
+AZ_08293_11192021_2129662_0,1440 E BROADWAY RD Tempe AZ 85281,"Number of Residential Units: 75.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-11-19
+AZ_08293_11202021_2129856_0,2325 E RIO SALADO Tempe AZ 85281,"Number of Residential Units: 2.0
+Less Than One Acre: Y
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Natural gas
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment unattended
+Human Factors #3: Unattended or unsupervised person
+Equipment Involved: Range, stove with/without oven, cooking surface
+Suppression Factors #1: Building construction or design factors, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1985.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Multiple detectors and power supplies
+Detector Operation: Operated
+Detector Effectiveness: No occupants
+AES Presence: Present
+AES Type: Wet pipe sprinkler
+AES Operation: Operated and Effective
+Number of Sprinklers Operating: 1.0",2021-11-20
+AZ_08293_11202021_2129803_0,2536 E VICTORY DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-11-20
+AZ_08293_11242021_2130268_0,5 E DAWN DR Tempe AZ 85284,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Common room, den, family room, living room, lounge
+Heat Source: Spark, ember or flame from operating equipment
+Item First Ignited: Organic materials, other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Type of Material: Wood or paper, processed, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Improper startup
+Equipment Involved: Fireplace, masonry
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2003.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Occupants failed to respond
+AES Presence: None Present",2021-11-24
+AZ_08293_11252021_2130283_0,2900 S SUNLAND DR Tempe AZ 85282,"On Site Materials #1: Office supplies
+Area of Origin: Duct: hvac, cable, exhaust, heating, or AC
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Undetermined
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and secured
+Building Height: Stories Above Grade: 3.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 10000.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: Heat
+Detector Power: Hardwire Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Undetermined",2021-11-25
+AZ_08293_11252021_2130356_0,1001 E PLAYA DEL NORTE DR Tempe AZ 85281,"Number of Residential Units: 1.0
+Not Residential Flag: Y
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat source: other
+Item First Ignited: Cooking materials, including edible materials
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to object of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 4.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 700.0
+Fire Origin (starting story): 3.0
+Detector Presence: Detectors Present
+Detector Type: Combination smoke - heat
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-11-25
+AZ_08293_11262021_2130377_0,3602 S TERRACE RD Tempe AZ 85282,"Number of Residential Units: 4.0
+Area of Origin: Duct: hvac, cable, exhaust, heating, or AC
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Electrical wire, cable insulation
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Mechanical failure, malfunction, other
+Human Factors #1: Asleep
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1500.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: Present",2021-11-26
+AZ_08293_11292021_2130715_0,1500 W LA JOLLA DR Tempe AZ 85282,"Number of Residential Units: 2.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Cooking materials, including edible materials
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #3: Unattended or unsupervised person
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 800.0
+Fire Origin (starting story): 2.0
+Detector Presence: Detectors Present
+Detector Type: Combination smoke - heat
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: Present",2021-11-29
+AZ_08293_11302021_2130727_0,2165 W 15TH ST Tempe AZ 85281,"Area of Origin: Outside area, other
+Heat Source: Hot ember or ash
+Item First Ignited: Heavy vegetation - not crop, including trees
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #1: Asleep",2021-11-30
+AZ_08293_12012021_2130841_0,999 E BASELINE RD Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Organic materials, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Human Factors #1: Asleep
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 5.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 10000.0
+Fire Origin (starting story): 3.0
+Detector Presence: Undetermined
+AES Presence: Undetermined",2021-12-01
+AZ_08293_12012021_2130919_0,4540 S RURAL RD Tempe AZ 85282,"Number of Residential Units: 10.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Cooking materials, including edible materials
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Misuse of material or product, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 900.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-12-01
+AZ_08293_01212021_211731_0,2112 E OXFORD DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Flammable liquid/gas - in/from engine or burner
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Heat source too close to combustibles.
+Human Factors #3: Unattended or unsupervised person",2021-12-01
+AZ_08293_01212021_211725_0,2137 E YALE DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Ceiling & floor assembly, crawl space b/t stories
+Heat Source: Arcing
+Item First Ignited: Structural component or finish, other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Unspecified short-circuit arc
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1932.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Insulation within structural area
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: None Present
+AES Presence: None Present",2021-12-01
+AZ_08293_12012021_2130876_0,2020 S RURAL RD Tempe AZ 85282,"Not Residential Flag: Y
+Less Than One Acre: Y
+On Site Materials #1: Electrical: parts, supplies, equipment
+Area of Origin: Switchgear area, transformer vault
+Heat Source: Spark, ember or flame from operating equipment
+Item First Ignited: Electrical wire, cable insulation
+Type of Material: Multiple types of material
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Short circuit arc from mechanical damage
+Human Factors #6: Multiple persons involved
+Equipment Involved: Electrical service supply wires from utility",2021-12-01
+AZ_08293_12022021_2130991_0,1835 E ELLIOT RD Tempe AZ 85284,"Area of Origin: Operator/passenger area of transportation equip.
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Multiple types of material
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition",2021-12-02
+AZ_08293_01252021_212008_0,2219 S RIVER DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Unintentional
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2000.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-12-05
+AZ_08293_01252021_212003_0,1053 E ALAMEDA DR Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Acres Burned: 0.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Heat from other open flame or smoking materials
+Item First Ignited: Flammable liquid/gas - uncontained
+Type of Material: Gasoline
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Flammable liquid or gas spilled
+Human Factors #6: Multiple persons involved
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2070.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Flammable liquid/gas - uncontained
+Type Material Contributing Most To Spread: Fabric, fiber, cotton, blends, rayon, wool
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-12-05
+AZ_08293_01272021_212134_0,704 E FORDHAM DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Cooking oil, transformer or lubricating oil
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment unattended
+Equipment Involved: Range, stove with/without oven, cooking surface
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1267.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Cabinetry (including built-in)
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-12-07
+AZ_08293_01282021_212237_0,1311 W BASELINE RD Tempe AZ 85283,"Number of Residential Units: 2.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Suppression Factors #1: Poor access for firefighters
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 800.0
+Fire Origin (starting story): 2.0
+Item Contributing Most to Spread: Undetermined
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: Undetermined
+AES Presence: None Present",2021-12-08
+AZ_08293_01282021_212187_0,2116 E LEMON ST Tempe AZ 85281,"Number of Residential Units: 5.0
+Number of Buildings Involved: 1.0
+Area of Origin: Storage room, area, tank, or bin
+Heat Source: Hot or smoldering object, other
+Item First Ignited: Floor covering or rug/carpet/mat
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1000.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Bedding; blanket, sheet, comforter
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: None Present
+AES Presence: None Present",2021-12-08
+AZ_08293_01282021_212213_0,312 W COLT RD Tempe AZ 85284,"Number of Residential Units: 1.0
+Area of Origin: Vehicle storage area; garage, carport
+Heat Source: Cigarette
+Item First Ignited: Box, carton, bag, basket, barrel
+Type of Material: Cardboard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Abandoned or discarded materials or products
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1500.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Storage supplies, other
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-12-08
+AZ_08293_12092021_2131556_0,1431 S NEWBERRY LN Tempe AZ 85281,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-12-09
+AZ_08293_12112021_2131771_0,1433 S STANLEY PL Tempe AZ 85281,"Area of Origin: Other
+Heat Source: Heat source: other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Human Factors #2: Possibly impaired by alcohol or drugs",2021-12-11
+AZ_08293_12112021_2131820_0,9125 S HEATHER DR Tempe AZ 85284,"Number of Residential Units: 1.0
+Area of Origin: Equipment or service area, other
+Heat Source: Arcing
+Item First Ignited: Electrical wire, cable insulation
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other
+Human Factors #6: Multiple persons involved
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2000.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Fire too small to operate
+AES Presence: None Present",2021-12-11
+AZ_08293_12122021_2131862_0,1522 E DAVA DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Wall assembly
+Heat Source: Heat source: other
+Item First Ignited: Structural component or finish, other
+Type of Material: Wood or paper, processed, other
+Cause of Ignition: Failure of equipment or heat source
+Factors Contributing To Ignition #1: Electrical failure, malfunction, other
+Equipment Involved: Electrical service supply wires from utility
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1004.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Structural component or finish, other
+Type Material Contributing Most To Spread: Sawn wood, including all finished lumber
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Unknown
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-12-12
+AZ_08293_12132021_2131962_0,1084 W DAVA DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause under investigation
+Factors Contributing To Ignition #1: Undetermined",2021-12-13
+AZ_08293_12132021_2132024_0,3825 S DORSEY LN Tempe AZ 85282,"Number of Residential Units: 1.0
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-12-13
+AZ_08293_12152021_2132179_0,2101 E APACHE BLVD Tempe AZ 85281,"Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined",2021-12-15
+AZ_08293_12162021_2132276_0,821 S FARMER AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Not Residential Flag: Y
+Area of Origin: Outside area, other
+Heat Source: Heat source: other
+Item First Ignited: Organic materials, other
+Confined To Origin: Fire Spread was Confined to Object of Origin
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Outside/open fire for warming or cooking",2021-12-16
+AZ_08293_12182021_2132463_0,215 E SOUTHERN AVE Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Suppression Factors #1: Delayed detection of fire
+Suppression Factors #2: Alarm System inappropriately shut off
+Suppression Factors #3: Delayed reporting of fire
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2072.0
+Fire Origin (starting story): 2.0
+Item Contributing Most to Spread: Decoration
+Type Material Contributing Most To Spread: Plastic
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Failed to Operate
+Detector Failure Reason: Hardwired power failure, shut-off or disconnect
+AES Presence: None Present",2021-12-18
+AZ_08293_12192021_2132502_0,248 E BRENTRUP DR Tempe AZ 85283,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Attic: vacant, crawl space above top story, cupola
+Heat Source: Radiated, conducted heat from operating equipment
+Item First Ignited: Multiple items first ignited
+Type of Material: Multiple types of material
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Installation deficiency
+Equipment Involved: Electrical wiring, other
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 2028.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Multiple items first ignited
+Type Material Contributing Most To Spread: Multiple types of material
+Detector Presence: Undetermined
+AES Presence: None Present",2021-12-19
+AZ_08293_12202021_2132605_0,114 E 7th ST Tempe AZ 85281,"Not Residential Flag: Y
+Less Than One Acre: Y
+Area of Origin: Multiple areas
+Heat Source: Cigarette lighter
+Item First Ignited: Multiple items first ignited
+Type of Material: Multiple types of material
+Cause of Ignition: Intentional
+Suppression Factors #1: Trouble finding location",2021-12-20
+AZ_08293_12202021_2132606_0,2015 E SOUTHERN AVE Tempe AZ 85282,"Number of Residential Units: 3.0
+Number of Buildings Involved: 1.0
+Area of Origin: Bedroom - < 5 persons; included are jail or prison
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Unintentional
+Equipment Involved: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 3410.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Multiple items first ignited
+Type Material Contributing Most To Spread: Multiple types of material
+Detector Presence: None Present
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-12-20
+AZ_08293_12222021_2132772_0,2116 E WILDERMUTH AVE Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Function area, other
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Undetermined
+Suppression Factors #1: Holes or openings in walls or ceilings
+Fire Spread: Confined to floor of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 695.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Undetermined
+Type Material Contributing Most To Spread: Wood or paper, processed, other
+Detector Presence: None Present
+AES Presence: None Present",2021-12-22
+AZ_08293_12222021_2132803_0,4540 S RURAL RD Tempe AZ 85282,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Cooking materials, including edible materials
+Type of Material: Fat, grease, butter, margarine, lard
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Equipment unattended
+Equipment Involved: Stove, heating
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 2.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 942.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Cabinetry (including built-in)
+Type Material Contributing Most To Spread: Wood or paper, processed, other
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Hardwire with battery
+Detector Operation: Operated
+Detector Effectiveness: Alerted Occupants
+AES Presence: None Present",2021-12-22
+AZ_08293_12262021_2133136_0,2031 W 1ST ST Tempe AZ 85281,"Material Storage Use #1: Undetermined
+Area of Origin: Undetermined
+Heat Source: Undetermined
+Item First Ignited: Item First Ignited, Other
+Type of Material: Undetermined
+Cause of Ignition: Cause undetermined after investigation
+Factors Contributing To Ignition #1: Undetermined
+Fire Spread: Confined to room of origin
+Structure Type: Fixed portable or mobile structure
+Structure Status: Undetermined
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 200.0
+Fire Origin (starting story): 1.0
+Detector Presence: None Present
+AES Presence: None Present",2021-12-26
+AZ_08293_12292021_2133415_0,125 W BROADWAY RD Tempe AZ 85282,"Number of Residential Units: 2.0
+Area of Origin: Cooking area, kitchen
+Heat Source: Heat from powered equipment, other
+Item First Ignited: Item First Ignited, Other
+Type of Material: Type of material first ignited, other
+Cause of Ignition: Unintentional
+Factors Contributing To Ignition #1: Other factor contributed to ignition
+Human Factors #2: Possibly impaired by alcohol or drugs
+Fire Spread: Confined to room of origin
+Structure Type: Enclosed building
+Structure Status: In normal use
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 250.0
+Fire Origin (starting story): 1.0
+Detector Presence: Detectors Present
+Detector Type: Smoke
+Detector Power: Battery Only
+Detector Operation: Operated
+Detector Effectiveness: Occupants failed to respond
+AES Presence: None Present",2021-12-29
+AZ_08293_12292021_2133392_0,2244 E APACHE BLVD Tempe AZ 85281,"Number of Residential Units: 1.0
+Number of Buildings Involved: 1.0
+Area of Origin: Vacant structural area
+Heat Source: Undetermined
+Item First Ignited: Undetermined
+Type of Material: Undetermined
+Cause of Ignition: Intentional
+Factors Contributing To Ignition #1: Undetermined
+Equipment Involved: Undetermined
+Fire Spread: Confined to building of origin
+Structure Type: Enclosed building
+Structure Status: Vacant and unsecured
+Building Height: Stories Above Grade: 1.0
+Building Height: Stories Below Grade: 0.0
+Total Square Feet: 1500.0
+Fire Origin (starting story): 1.0
+Item Contributing Most to Spread: Undetermined
+Type Material Contributing Most To Spread: Undetermined
+Detector Presence: None Present
+AES Presence: None Present",2021-12-29
