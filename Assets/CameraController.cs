@@ -9,7 +9,7 @@ public class CameraController : MonoBehaviour
     private Vector3 dragOrigin;      // Starting position of the camera on drag
     private bool isDragging = false; // Flag to check if the mouse is being dragged
 
-    void Update()
+    void FixedUpdate()
     {
         HandleMouseDrag();
         HandleMouseZoom();
