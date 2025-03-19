@@ -651,6 +651,7 @@ MonoBehaviour:
   jsonFile: {fileID: 4900000, guid: 60909786246119b4a8883c1e3aa4b23a, type: 3}
   mydata: []
   fireMarkerPrefab: {fileID: 933899561238126848, guid: 93c177e3c419a7a4b9b9f8c75cf77ee6, type: 3}
+  MAX_RENDER: 50
 --- !u!4 &623314136
 Transform:
   m_ObjectHideFlags: 0

@@ -11,6 +11,8 @@ public class FireMarkerManager : MonoBehaviour
     [SerializeField] private NFIRSDataPoint[] mydata;
     [SerializeField] private GameObject fireMarkerPrefab;
 
+    [SerializeField] private int MAX_RENDER;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,7 +29,7 @@ public class FireMarkerManager : MonoBehaviour
             marker.GetComponent<NFIRSView>().data = point;
             marker.SetActive(true);
             i++;
-            //if (i >= 50) break;
+            if (i >= MAX_RENDER) break;
         }
     }
 
