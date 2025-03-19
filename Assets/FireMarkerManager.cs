@@ -24,9 +24,10 @@ public class FireMarkerManager : MonoBehaviour
             CesiumGlobeAnchor anchor = marker.GetComponent<CesiumGlobeAnchor>();
             marker.transform.position = Vector3.zero;
             anchor.longitudeLatitudeHeight = new Unity.Mathematics.double3(point.lng, point.lat, point.elevation);
+            marker.GetComponent<NFIRSView>().data = point;
             marker.SetActive(true);
             i++;
-            if (i >= 5) break;
+            if (i >= 20) break;
         }
     }
 
