@@ -113,8 +113,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74f14e1eb550b9a4fb6c0a2f0456845b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _adjustOrientationForGlobeWhenMoving: 0
-  _detectTransformChanges: 0
+  _adjustOrientationForGlobeWhenMoving: 1
+  _detectTransformChanges: 1
   _localToGlobeFixedMatrix:
     c0:
       x: 0.9764046849401992
@@ -164,12 +164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232bcf8fad97d4240ad491cacf915b0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data:
-    _addr: 
-    lat: 0
-    lng: 0
-    elevation: 0
-    _desc: 
 --- !u!114 &5297478147345772448
 MonoBehaviour:
   m_ObjectHideFlags: 0
