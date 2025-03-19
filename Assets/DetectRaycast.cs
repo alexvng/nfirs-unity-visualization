@@ -24,11 +24,9 @@ public class DetectRaycast : MonoBehaviour
         {
             if (hit.collider.gameObject == this.gameObject)
             {
-                //tooltip.text = GetComponent<NFIRSView>().data._addr;
-                //tooltip.text += "\n";
-                //tooltip.text += GetComponent<NFIRSView>().data._desc;
+                tooltip.gameObject.transform.parent.gameObject.SetActive(true);
                 var props = GetComponent<NFIRSView>().feature.Properties;
-                tooltip.text = $"{props["address"]}\n{props["date"]}\n{props["description"]}";
+                tooltip.text = $"{props["address"]}\n{props["date"]}\n\n{props["description"]}";
             }
         }
         this.transform.localScale = (new Vector3(100,100,100)) * (CameraController.adjustBy*2);

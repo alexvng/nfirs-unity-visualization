@@ -30,7 +30,7 @@ public class GeoJSONTest : MonoBehaviour
         {
             Point p = (Point)f.Geometry;
             var c = p.Coordinates;
-            var d = new double3(c.Latitude, c.Longitude, 355);
+            var d = new double3(c.Latitude, c.Longitude, 340);
             //print(d);
 
             var marker = Instantiate(fireMarkerPrefab);
