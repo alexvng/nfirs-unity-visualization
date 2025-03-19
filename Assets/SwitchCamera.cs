@@ -5,7 +5,7 @@ using UnityEngine;
 public class SwitchCamera : MonoBehaviour
 {
     private bool freeFly;
-    [SerializeField] private GameObject camera1, camera2;
+    [SerializeField] private GameObject camera1, camera2, tooltip;
 
     private void Start()
     {
@@ -20,5 +20,6 @@ public class SwitchCamera : MonoBehaviour
 
         camera2.gameObject.SetActive(freeFly);
         camera1.gameObject.SetActive(!freeFly);
+        tooltip.gameObject.SetActive(!freeFly);
     }
 }

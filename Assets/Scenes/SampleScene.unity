@@ -326,8 +326,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 403705034}
-  m_LocalRotation: {x: -0.000000040732292, y: 3.0043858e-17, z: 1.09514716e-16, w: 1}
-  m_LocalPosition: {x: -0.0003874323, y: -14596.09, z: 0.10586022}
+  m_LocalRotation: {x: -0.000000042915445, y: 4.263272e-17, z: 1.4269102e-16, w: 1}
+  m_LocalPosition: {x: -0.00038743648, y: -14522.83, z: 0.105328694}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -440,7 +440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bef32f31a547984f88be1ab98b65f04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _distance: 0
+  _distance: 1000
 --- !u!114 &403705038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -458,23 +458,23 @@ MonoBehaviour:
   _localToGlobeFixedMatrix:
     c0:
       x: 0.9277229777354166
-      y: -0.3732694423358708
-      z: 0.00000000000000004455009160509103
+      y: -0.3732694423358709
+      z: 0.0000000000000000839620370171001
       w: 0
     c1:
-      x: -0.3117017880886534
-      y: -0.7747028773677627
-      z: 0.5501612918957909
+      x: -0.31170178898531137
+      y: -0.774702879596314
+      z: 0.5501612882496688
       w: 0
     c2:
-      x: 0.20535839862072397
-      y: 0.5103972719523268
-      z: 0.8350584128667615
+      x: 0.2053583972597381
+      y: 0.5103972685697357
+      z: 0.8350584152689349
       w: 0
     c3:
-      x: -1990227.975213461
-      y: -4946507.840544156
-      z: 3489232.093653138
+      x: -1990250.8105084195
+      y: -4946564.595331527
+      z: 3489272.397878779
       w: 1
   _localToGlobeFixedMatrixIsValid: 1
 --- !u!114 &403705039
@@ -1200,74 +1200,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 500
   zoomSpeed: 5
---- !u!1 &1694729782
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1694729785}
-  - component: {fileID: 1694729784}
-  - component: {fileID: 1694729783}
-  m_Layer: 0
-  m_Name: EventSystem
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1694729783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1694729782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SendPointerHoverToParent: 1
-  m_HorizontalAxis: Horizontal
-  m_VerticalAxis: Vertical
-  m_SubmitButton: Submit
-  m_CancelButton: Cancel
-  m_InputActionsPerSecond: 10
-  m_RepeatDelay: 0.5
-  m_ForceModuleActive: 0
---- !u!114 &1694729784
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1694729782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
---- !u!4 &1694729785
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1694729782}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1824464973
 GameObject:
   m_ObjectHideFlags: 0
@@ -1557,7 +1489,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1831639631
 MonoBehaviour:
@@ -1573,3 +1505,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   camera1: {fileID: 1613956198}
   camera2: {fileID: 403705034}
+  tooltip: {fileID: 1826089029}
