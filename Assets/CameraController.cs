@@ -42,6 +42,7 @@ public class CameraController : MonoBehaviour
 
             // Move the camera based on mouse drag
             transform.position += delta * moveSpeed * Time.deltaTime;
+            dragOrigin = currentMousePosition;
         }
     }
 

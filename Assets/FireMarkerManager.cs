@@ -27,7 +27,7 @@ public class FireMarkerManager : MonoBehaviour
             marker.GetComponent<NFIRSView>().data = point;
             marker.SetActive(true);
             i++;
-            //if (i >= 100) break;
+            if (i >= 50) break;
         }
     }
 
