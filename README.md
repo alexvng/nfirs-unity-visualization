@@ -39,7 +39,7 @@ Here is an example of a minor fire in the INTDS building at Arizona State Univer
 
 ![Example of tooltip](tooltip_img.png)
 
-Pressing `SPACE` allows you to switch into freecam mode, teleporting you to the point at the center of your screen.Pressing `1` and `2` toggles the map tiles provider:
+Pressing `SPACE` allows you to switch into freecam mode, teleporting you to the point at the center of your screen. Pressing `1` and `2` toggles the map tiles provider:
 
 1. 3D tiles from Cesium's Google Earth integration.
 ![Example of freecam in 3D mode](3d_mode_img.png)
