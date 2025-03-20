@@ -18,7 +18,7 @@ public class FollowMouse : MonoBehaviour
         if (!Physics.Raycast(ray, out hit, Mathf.Infinity, layerMask))
         {
             this.gameObject.SetActive(false);
-            print(hit.collider.gameObject.name);
+            //print(hit.collider.gameObject.name);
         }
     }
 }

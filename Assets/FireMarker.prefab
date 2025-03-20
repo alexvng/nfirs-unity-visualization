@@ -15,7 +15,6 @@ GameObject:
   - component: {fileID: 933899561238126877}
   - component: {fileID: 133430161770900139}
   - component: {fileID: -6999976313394064884}
-  - component: {fileID: 5297478147345772448}
   m_Layer: 5
   m_Name: FireMarker
   m_TagString: Untagged
@@ -164,16 +163,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232bcf8fad97d4240ad491cacf915b0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &5297478147345772448
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 933899561238126848}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bef32f31a547984f88be1ab98b65f04, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _distance: 0

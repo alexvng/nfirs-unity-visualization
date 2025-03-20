@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.EventSystems;
 
 public class CameraController : MonoBehaviour
 {
@@ -18,7 +19,10 @@ public class CameraController : MonoBehaviour
 
     void Update()
     {
-        HandleMouseDrag();
+        if (!EventSystem.current.IsPointerOverGameObject())
+        {
+            HandleMouseDrag();
+        }
         HandleMouseZoom();
         float currentZoomLevel = Mathf.Abs(transform.position.y - -14500f);
         adjustBy = Mathf.Clamp((currentZoomLevel) / (14500), 0.05f, 1f);
