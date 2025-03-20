@@ -2,17 +2,21 @@
 
 *Data from FEMA NFIRS, visualized in Unity using Cesium*
 
+This is a Python + Unity project which extracts information about building fires from U.S. government NFIRS data, rendering them in a Unity project with Cesium map tiles.
+
+## Demo .gifs
+
 ![.gif of Unity project #1](./unity_recording.gif)
 
 ![.gif of Unity project #2](./unity_recording2.gif)
 
-This is a Python + Unity project which extracts addresses from the U.S. FEMA [National Fire Incident Reporting System](https://www.usfa.fema.gov/nfirs/access-data/), also known as NFIRS.
+## Summary
 
 Python Jupyter notebooks are used to process the NFIRS raw data, year by year, and convert it to a GeoJSON file.
 
 Google Maps [Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview) is used to convert plaintext addresses into longitude/latitude coordinate pairs.
 
-This file is then imported to Unity and overlaid onto Cesium 3D tiles for an interactive data viewer:
+This file is then imported to Unity and overlaid onto Cesium 3D tiles for an interactive data viewer with tooltips and date filtering.
 
 ## Step 1: Raw NFIRS data import and cleaning
 <img src="nfirs_raw_image.png" alt="Screenshot of the NFIRS data table" width="75%" height="75%" />
