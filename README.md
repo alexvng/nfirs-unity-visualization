@@ -50,3 +50,11 @@ Pressing `SPACE` allows you to switch into freecam mode, teleporting you to the 
 
 2. 2D tiles with street labels from Bing Maps.
 <img src="2d_mode_img.png" alt="Example of Bing Maps in 2D mode" width="40%" height="40%" />
+
+## Next steps
+
+I intend to generalize the NFIRS data-cleaning code to have it work on all NFIRS v5.0 format data (everything from 2010 onwards) and pack it into a GeoJSON. This would open up 10 years' worth of firefighting data to be visualized across the whole country, using either this Unity project or standard GIS workflows.
+
+## Contact me:
+
+LinkedIn: [https://www.linkedin.com/in/alex-vuong-49003a208/]
