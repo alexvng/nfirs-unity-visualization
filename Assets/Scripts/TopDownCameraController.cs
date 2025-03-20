@@ -2,19 +2,23 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.EventSystems;
 
+/// <summary>
+/// Google Maps-style navigation with mouse drag and scroll wheel
+/// <ai>Partially written by Copilot AI</ai>
+/// </summary>
 public class TopDownCameraController : MonoBehaviour
 {
-    public float moveSpeed = 5f;     // Speed of camera movement
-    public float zoomSpeed = 10f;    // Speed of zoom (dolly effect)
+    public float moveSpeed = 5f;
+    public float zoomSpeed = 10f;
 
-    private Vector3 dragOrigin;      // Starting position of the camera on drag
-    private bool isDragging = false; // Flag to check if the mouse is being dragged
+    private Vector3 dragOrigin;
+    private bool isDragging = false;
 
-    public static float scaleMovementByZoomFactor = 0.05f;
+    public static float scaleByZoomFactor = 0.05f;
 
     private void OnDisable()
     {
-        scaleMovementByZoomFactor = 0.1f;
+        scaleByZoomFactor = 0.1f;
     }
 
     void Update()
@@ -25,22 +29,21 @@ public class TopDownCameraController : MonoBehaviour
         }
         HandleMouseZoom();
         float currentZoomLevel = Mathf.Abs(transform.position.y - -14500f);
-        scaleMovementByZoomFactor = Mathf.Clamp((currentZoomLevel) / (14500), 0.05f, 1f);
+        scaleByZoomFactor = Mathf.Clamp((currentZoomLevel) / (14500), 0.05f, 1f);
     }
 
-    // Handles the click-and-drag movement
     private void HandleMouseDrag()
     {
-        if (Input.GetMouseButtonDown(0))  // Left click to start drag
+        if (Input.GetMouseButtonDown(0))
         {
             isDragging = true;
             dragOrigin = new Vector3();
             dragOrigin.x = Mouse.current.position.ReadValue().x;
             dragOrigin.z = Mouse.current.position.ReadValue().y;
-            dragOrigin.y = 0; // Keep the camera in the same Z-plane
+            dragOrigin.y = 0;
         }
 
-        if (!Input.GetMouseButton(0))  // Stop dragging
+        if (!Input.GetMouseButton(0))
         {
             isDragging = false;
         }
@@ -50,16 +53,14 @@ public class TopDownCameraController : MonoBehaviour
             Vector3 currentMousePosition = new Vector3();
             currentMousePosition.x = Mouse.current.position.ReadValue().x;
             currentMousePosition.z = Mouse.current.position.ReadValue().y;
-            currentMousePosition.y = 0;  // Lock the camera to the same Z-plane
+            currentMousePosition.y = 0;
             Vector3 delta = dragOrigin - currentMousePosition;
 
-            // Move the camera based on mouse drag
-            transform.position += delta * moveSpeed * (Time.deltaTime/2) * scaleMovementByZoomFactor;
+            transform.position += delta * moveSpeed * (Time.deltaTime / 2) * scaleByZoomFactor;
             dragOrigin = currentMousePosition;
         }
     }
 
-    // Handles zooming in and out with the scroll wheel (dolly zoom)
     private void HandleMouseZoom()
     {
         float scrollInput = Mouse.current.scroll.y.ReadValue();
@@ -67,7 +68,7 @@ public class TopDownCameraController : MonoBehaviour
         {
             float zoomAmount = scrollInput * zoomSpeed;
 
-            float newY = transform.position.y - (zoomAmount * scaleMovementByZoomFactor); // Zoom effect along the Z-axis
+            float newY = transform.position.y - (zoomAmount * scaleByZoomFactor);
             newY = Mathf.Clamp(newY, -14600f, 0f);
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }

@@ -4,41 +4,45 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
 
+/// <summary>
+/// Handle the hotkeys for switching map modes (top-down vs freefly, Google vs Bing)
+/// </summary>
 public class SwitchViewingModeHandler : MonoBehaviour
 {
-    private bool freeFly;
-    [SerializeField] private GameObject camera1, camera2, tooltip, tiles1, tiles2;
-    private CesiumGlobeAnchor a1, a2;
+    private bool isFreeFlyActive;
+    [SerializeField] private GameObject topDownCamera, freeFlyCamera, googleTiles, bingTiles;
+    private CesiumGlobeAnchor anchor1, anchor2;
 
     private void Start()
     {
-        freeFly = false;
-        a1 = camera1.GetComponent<CesiumGlobeAnchor>();
-        a2 = camera2.GetComponent<CesiumGlobeAnchor>();
+        isFreeFlyActive = false;
+        anchor1 = topDownCamera.GetComponent<CesiumGlobeAnchor>();
+        anchor2 = freeFlyCamera.GetComponent<CesiumGlobeAnchor>();
     }
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            freeFly = !freeFly;
+            isFreeFlyActive = !isFreeFlyActive; // flip bool
             
-            
-            var v = new double3(a1.longitudeLatitudeHeight.x, a1.longitudeLatitudeHeight.y, 340);
-            a2.longitudeLatitudeHeight = v;
+            //TODO fix magic number (340 is good ground height for cesium)
+            //IDK what unit it's in
+            var v = new double3(anchor1.longitudeLatitudeHeight.x, anchor1.longitudeLatitudeHeight.y, 340);
+            anchor2.longitudeLatitudeHeight = v;
         }
 
-        camera2.gameObject.SetActive(freeFly);
-        camera1.gameObject.SetActive(!freeFly);
+        freeFlyCamera.gameObject.SetActive(isFreeFlyActive);
+        topDownCamera.gameObject.SetActive(!isFreeFlyActive);
 
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
-            tiles1.gameObject.SetActive(true);
-            tiles2.gameObject.SetActive(false);
+            googleTiles.gameObject.SetActive(true);
+            bingTiles.gameObject.SetActive(false);
         }
         else if (Input.GetKeyDown(KeyCode.Alpha2))
         {
-            tiles1.gameObject.SetActive(false);
-            tiles2.gameObject.SetActive(true);
+            googleTiles.gameObject.SetActive(false);
+            bingTiles.gameObject.SetActive(true);
         }
     }
 }

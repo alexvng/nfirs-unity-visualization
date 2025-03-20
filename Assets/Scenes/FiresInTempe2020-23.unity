@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 286929338}
   - component: {fileID: 286929339}
   m_Layer: 0
-  m_Name: Google Photorealistic 3D Tiles
+  m_Name: (1,Google) Photorealistic 3D Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -207,7 +207,7 @@ GameObject:
   - component: {fileID: 382159340}
   - component: {fileID: 382159339}
   m_Layer: 5
-  m_Name: InstructionText (1)
+  m_Name: RInstructionText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: 401530319}
   - component: {fileID: 401530318}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Screenspace Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -431,8 +431,9 @@ RectTransform:
   - {fileID: 1601606528}
   - {fileID: 1778152183}
   - {fileID: 382159338}
+  - {fileID: 889238024}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -468,13 +469,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 403705034}
-  m_LocalRotation: {x: -0.000000042915445, y: 4.339258e-17, z: 1.6063975e-16, w: 1}
-  m_LocalPosition: {x: -0.00038743624, y: -14522.83, z: 0.105328694}
+  m_LocalRotation: {x: -0.000000042915445, y: 3.9534545e-17, z: 1.6318153e-16, w: 1}
+  m_LocalPosition: {x: -0.000387436, y: -14522.83, z: 0.105328694}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1031675916}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &403705036
 MonoBehaviour:
@@ -601,7 +602,7 @@ MonoBehaviour:
     c0:
       x: 0.9277229777354166
       y: -0.37326944233587084
-      z: 0.00000000000000008580454494607632
+      z: 0.00000000000000010428487175800485
       w: 0
     c1:
       x: -0.3117017889853114
@@ -614,7 +615,7 @@ MonoBehaviour:
       z: 0.835058415268935
       w: 0
     c3:
-      x: -1990250.810508419
+      x: -1990250.8105084188
       y: -4946564.595331527
       z: 3489272.3978787772
       w: 1
@@ -849,7 +850,7 @@ GameObject:
   - component: {fileID: 610632608}
   - component: {fileID: 610632607}
   m_Layer: 5
-  m_Name: top_bg
+  m_Name: BG Header
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -945,7 +946,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1031675916}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &623314137
 MonoBehaviour:
@@ -959,9 +960,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0c4fc25377e6bf4da929db87f30d435, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  geoJSON: {fileID: 4900000, guid: d7ccd86090ca76043ad7c7c0f2fc8aa9, type: 3}
+  geoJSONFile: {fileID: 4900000, guid: d7ccd86090ca76043ad7c7c0f2fc8aa9, type: 3}
   fireMarkerPrefab: {fileID: 933899561238126848, guid: 93c177e3c419a7a4b9b9f8c75cf77ee6, type: 3}
-  MAX_RENDER: 10000
+  MAX_MARKERS_ALLOWED: 2000
 --- !u!114 &623314138
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1104,7 +1105,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1031675916}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!114 &705507996
 MonoBehaviour:
@@ -1166,13 +1167,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 889238023}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 843.2955, y: 810.96954, z: -10.070535}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -960.00006, y: -539.9177, z: 0}
+  m_LocalScale: {x: 1.3168725, y: 1.3168725, z: 1.3168725}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 401530321}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &889238025
 MonoBehaviour:
@@ -1188,7 +1189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftSlider: {fileID: 1963028849}
   rightSlider: {fileID: 1229819209}
-  topText: {fileID: 1601606529}
+  dateText: {fileID: 1601606529}
 --- !u!1 &1025593613
 GameObject:
   m_ObjectHideFlags: 0
@@ -1229,13 +1230,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1025593613}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1025593617
 MonoBehaviour:
@@ -1337,11 +1338,11 @@ Transform:
   - {fileID: 286929338}
   - {fileID: 1675106172}
   - {fileID: 1613956199}
+  - {fileID: 403705035}
   - {fileID: 623314136}
   - {fileID: 705507995}
-  - {fileID: 403705035}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1053199384
 GameObject:
@@ -1787,7 +1788,7 @@ GameObject:
   - component: {fileID: 1596730389}
   - component: {fileID: 1596730388}
   m_Layer: 5
-  m_Name: slider_dimbg
+  m_Name: BG Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1998,7 +1999,7 @@ GameObject:
   - component: {fileID: 1613956201}
   - component: {fileID: 1613956202}
   m_Layer: 0
-  m_Name: TopDownCameraRoot
+  m_Name: TopDownCameraRig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2082,7 +2083,7 @@ GameObject:
   - component: {fileID: 1675106174}
   - component: {fileID: 1675106173}
   m_Layer: 0
-  m_Name: Cesium World Terrain
+  m_Name: (2,Bing) Cesium World Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2177,7 +2178,7 @@ GameObject:
   - component: {fileID: 1778152185}
   - component: {fileID: 1778152184}
   m_Layer: 5
-  m_Name: InstructionText
+  m_Name: LInstructionText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2312,7 +2313,7 @@ GameObject:
   - component: {fileID: 1824464976}
   - component: {fileID: 1824464975}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Tooltip Text
   m_TagString: tooltip_text
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2506,7 +2507,7 @@ GameObject:
   - component: {fileID: 1826089033}
   - component: {fileID: 1826089034}
   m_Layer: 5
-  m_Name: TooltipBG
+  m_Name: BG Tooltip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2610,7 +2611,7 @@ GameObject:
   - component: {fileID: 1831639630}
   - component: {fileID: 1831639631}
   m_Layer: 0
-  m_Name: SwitcherHotkeys
+  m_Name: SwitcherHotkeysHandler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2629,7 +2630,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1831639631
 MonoBehaviour:
@@ -2643,11 +2644,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24af7df4c61ef434987791b3da9e0081, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  camera1: {fileID: 1613956198}
-  camera2: {fileID: 403705034}
-  tooltip: {fileID: 1826089029}
-  tiles1: {fileID: 286929337}
-  tiles2: {fileID: 1675106171}
+  topDownCamera: {fileID: 1613956198}
+  freeFlyCamera: {fileID: 403705034}
+  googleTiles: {fileID: 286929337}
+  bingTiles: {fileID: 1675106171}
 --- !u!1 &1963028847
 GameObject:
   m_ObjectHideFlags: 0

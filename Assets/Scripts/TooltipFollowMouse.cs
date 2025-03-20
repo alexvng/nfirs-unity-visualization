@@ -3,22 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+/// <summary>
+/// Update position of tooltip to always match mouse
+/// </summary>
 public class TooltipFollowMouse : MonoBehaviour
 {
     [SerializeField] private LayerMask layerMask;
-    // Update is called once per frame
     void Update()
     {
         transform.position = Mouse.current.position.ReadValue();
 
         Ray ray = Camera.main.ScreenPointToRay(Mouse.current.position.ReadValue());
 
-        RaycastHit hit;
-
-        if (!Physics.Raycast(ray, out hit, Mathf.Infinity, layerMask))
+        if (!Physics.Raycast(ray, Mathf.Infinity, layerMask)) // hide if raycast fails
         {
             this.gameObject.SetActive(false);
-            //print(hit.collider.gameObject.name);
         }
     }
 }
