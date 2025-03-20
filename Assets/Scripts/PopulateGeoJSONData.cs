@@ -35,7 +35,7 @@ public class PopulateGeoJSONData : MonoBehaviour
         {
             Point p = (Point)f.Geometry;
             var c = p.Coordinates;
-            var coords = new double3(c.Latitude, c.Longitude, 340); // remember lat/lon are transposed!
+            var coords = new double3(c.Longitude, c.Latitude, 340); // remember lat/lon are transposed!
 
             var marker = Instantiate(fireMarkerPrefab);
             CesiumGlobeAnchor anchor = marker.GetComponent<CesiumGlobeAnchor>();
