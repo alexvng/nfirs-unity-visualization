@@ -31,3 +31,18 @@ After combining each year's data using [Jupyter notebook #3](.nfirs_data_noteboo
 
 **View the GeoJSON file on a 2D interactive map:** [fires-2020-23.json](https://github.com/alexvng/nfirs-unity-visualization/blob/02e6b9596ff596484bbc59d7a34b50621132f667/Assets/fires-2020-23.json)
 
+## Step 3:
+
+I import the GeoJSON file to Unity and place the coordinates onto Cesium 3D tiles as a `FireMarker` Prefab, which pipes data to the mouseover tooltip.
+
+Here is an example of a minor fire in the INTDS building at Arizona State University.
+
+![Example of tooltip](tooltip_img.png)
+
+Pressing `SPACE` allows you to switch into freecam mode, teleporting you to the point at the center of your screen.Pressing `1` and `2` toggles the map tiles provider:
+
+1. 3D tiles from Cesium's Google Earth integration.
+![Example of freecam in 3D mode](3d_mode_img.png)
+
+2. 2D tiles with street labels from Bing Maps
+![Example of Bing Maps in 2D mode](2d_mode_img.png)
