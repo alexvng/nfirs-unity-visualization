@@ -54,7 +54,7 @@ public class CameraController : MonoBehaviour
             Vector3 delta = dragOrigin - currentMousePosition;
 
             // Move the camera based on mouse drag
-            transform.position += delta * moveSpeed * Time.deltaTime * adjustBy;
+            transform.position += delta * moveSpeed * (Time.deltaTime/2) * adjustBy;
             dragOrigin = currentMousePosition;
         }
     }

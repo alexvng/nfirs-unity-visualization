@@ -20,7 +20,7 @@ public class NFIRSView : MonoBehaviour
         sliderManager = FindObjectOfType<SliderManager>();
     }
 
-    private void Update()
+    private void LateUpdate()
     {
         var date = DateTime.Parse(feature.Properties["date"].ToString());
         var inWindow = date >= sliderManager.minDate && date <= sliderManager.maxDate;

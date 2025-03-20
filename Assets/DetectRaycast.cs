@@ -11,7 +11,8 @@ public class DetectRaycast : MonoBehaviour
 
     private void Start()
     {
-        tooltip = FindAnyObjectByType<TMP_Text>();
+        //tooltip = FindAnyObjectByType<TMP_Text>();
+        tooltip = GameObject.FindWithTag("tooltip_text").GetComponent<TMP_Text>();
     }
 
     private void Update()
