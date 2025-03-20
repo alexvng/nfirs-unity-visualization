@@ -1,4 +1,4 @@
-# Every building fire in Tempe, Arizona from 2020-2024
+# Every building fire in Tempe, Arizona from 2020-2023
 
 *Data from FEMA NFIRS, visualized in Unity using Cesium*
 
