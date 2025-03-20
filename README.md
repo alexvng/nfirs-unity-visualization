@@ -57,4 +57,4 @@ I intend to generalize the NFIRS data-cleaning code to have it work on all NFIRS
 
 ## Contact me:
 
-LinkedIn: [https://www.linkedin.com/in/alex-vuong-49003a208/]
+LinkedIn: https://www.linkedin.com/in/alex-vuong-49003a208/
