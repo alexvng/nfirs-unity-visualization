@@ -8,6 +8,8 @@
 
 This is a Python + Unity project which extracts addresses from the U.S. FEMA [National Fire Incident Reporting System](https://www.usfa.fema.gov/nfirs/access-data/), also known as NFIRS.
 
+Google Maps [Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview) is used to convert plaintext addresses into longitude/latitude coordinate pairs.
+
 Python Jupyter notebooks in [./nfirs_data_notebooks](.nfirs_data_notebooks/1_fire_data.ipynb) are used to process the NFIRS raw data, year by year, and convert it to a GeoJSON file.
 
 This file is then imported to Unity and overlaid onto Cesium 3D tiles for an interactive data viewer:
