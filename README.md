@@ -10,4 +10,4 @@ This file is then imported to Unity and overlaid onto Cesium 3D tiles for an int
 
 View the created GeoJSON file by itself:
 
-[<img src="./geojson_img.gif">]([https://link-to-your-URL/](https://github.com/alexvng/nfirs-unity-visualization/blob/02e6b9596ff596484bbc59d7a34b50621132f667/Assets/fires-2020-23.json))
+[<img src="./geojson_img.gif">](https://github.com/alexvng/nfirs-unity-visualization/blob/02e6b9596ff596484bbc59d7a34b50621132f667/Assets/fires-2020-23.json)
