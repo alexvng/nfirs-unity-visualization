@@ -30,6 +30,6 @@ public class DetectRaycast : MonoBehaviour
                 tooltip.text = $"{props["address"]}\n{props["date"]}\n\n{props["description"]}";
             }
         }
-        this.transform.localScale = (new Vector3(100,100,100)) * (CameraController.adjustBy*2);
+        this.transform.localScale = (new Vector3(50,50,50)) * (CameraController.adjustBy*2);
     }
 }
