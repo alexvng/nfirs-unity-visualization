@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class FollowMouse : MonoBehaviour
+public class TooltipFollowMouse : MonoBehaviour
 {
     [SerializeField] private LayerMask layerMask;
     // Update is called once per frame

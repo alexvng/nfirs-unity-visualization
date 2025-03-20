@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.EventSystems;
 
-public class CameraController : MonoBehaviour
+public class TopDownCameraController : MonoBehaviour
 {
     public float moveSpeed = 5f;     // Speed of camera movement
     public float zoomSpeed = 10f;    // Speed of zoom (dolly effect)
@@ -10,11 +10,11 @@ public class CameraController : MonoBehaviour
     private Vector3 dragOrigin;      // Starting position of the camera on drag
     private bool isDragging = false; // Flag to check if the mouse is being dragged
 
-    public static float adjustBy = 0.05f;
+    public static float scaleMovementByZoomFactor = 0.05f;
 
     private void OnDisable()
     {
-        adjustBy = 0.1f;
+        scaleMovementByZoomFactor = 0.1f;
     }
 
     void Update()
@@ -25,7 +25,7 @@ public class CameraController : MonoBehaviour
         }
         HandleMouseZoom();
         float currentZoomLevel = Mathf.Abs(transform.position.y - -14500f);
-        adjustBy = Mathf.Clamp((currentZoomLevel) / (14500), 0.05f, 1f);
+        scaleMovementByZoomFactor = Mathf.Clamp((currentZoomLevel) / (14500), 0.05f, 1f);
     }
 
     // Handles the click-and-drag movement
@@ -40,7 +40,7 @@ public class CameraController : MonoBehaviour
             dragOrigin.y = 0; // Keep the camera in the same Z-plane
         }
 
-        if (Input.GetMouseButtonUp(0))  // Stop dragging
+        if (!Input.GetMouseButton(0))  // Stop dragging
         {
             isDragging = false;
         }
@@ -54,7 +54,7 @@ public class CameraController : MonoBehaviour
             Vector3 delta = dragOrigin - currentMousePosition;
 
             // Move the camera based on mouse drag
-            transform.position += delta * moveSpeed * (Time.deltaTime/2) * adjustBy;
+            transform.position += delta * moveSpeed * (Time.deltaTime/2) * scaleMovementByZoomFactor;
             dragOrigin = currentMousePosition;
         }
     }
@@ -67,7 +67,7 @@ public class CameraController : MonoBehaviour
         {
             float zoomAmount = scrollInput * zoomSpeed;
 
-            float newY = transform.position.y - (zoomAmount * adjustBy); // Zoom effect along the Z-axis
+            float newY = transform.position.y - (zoomAmount * scaleMovementByZoomFactor); // Zoom effect along the Z-axis
             newY = Mathf.Clamp(newY, -14600f, 0f);
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }

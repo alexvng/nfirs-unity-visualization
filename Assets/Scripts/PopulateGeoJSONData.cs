@@ -8,8 +8,7 @@ using GeoJSON.Text.Geometry;
 using CesiumForUnity;
 using Unity.Mathematics;
 
-
-public class GeoJSONTest : MonoBehaviour
+public class PopulateGeoJSONData : MonoBehaviour
 {
     [SerializeField] private TextAsset geoJSON;
     [SerializeField] private GameObject fireMarkerPrefab;
@@ -39,7 +38,7 @@ public class GeoJSONTest : MonoBehaviour
             //marker.transform.position = Vector3.zero;
             anchor.detectTransformChanges = false;
             anchor.longitudeLatitudeHeight = d;
-            marker.GetComponent<NFIRSView>().feature = f;
+            marker.GetComponent<MarkerDataContainer>().feature = f;
             marker.SetActive(true);
             i++;
             if (i >= MAX_RENDER) break;

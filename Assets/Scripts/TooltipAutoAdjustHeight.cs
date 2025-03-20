@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class AutoAdjustHeight : MonoBehaviour
+public class TooltipAutoAdjustHeight : MonoBehaviour
 {
     [SerializeField] private TMP_Text text;
 
@@ -11,6 +11,6 @@ public class AutoAdjustHeight : MonoBehaviour
     void Update()
     {
         var x = this.GetComponent<RectTransform>().sizeDelta.x;
-        this.GetComponent<RectTransform>().sizeDelta = new Vector2(x, text.preferredHeight);
+        this.GetComponent<RectTransform>().sizeDelta = new Vector2(x, text.preferredHeight+35f);
     }
 }

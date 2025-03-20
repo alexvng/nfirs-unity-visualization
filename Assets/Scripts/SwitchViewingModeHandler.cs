@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
 
-public class SwitcherHotkeys : MonoBehaviour
+public class SwitchViewingModeHandler : MonoBehaviour
 {
     private bool freeFly;
     [SerializeField] private GameObject camera1, camera2, tooltip, tiles1, tiles2;

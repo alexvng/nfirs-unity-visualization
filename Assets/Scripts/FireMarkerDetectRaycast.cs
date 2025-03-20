@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class DetectRaycast : MonoBehaviour
+public class FireMarkerDetectRaycast : MonoBehaviour
 {
     [SerializeField] private LayerMask layerMask;
     private TMP_Text tooltip;
@@ -26,10 +26,10 @@ public class DetectRaycast : MonoBehaviour
             if (hit.collider.gameObject == this.gameObject)
             {
                 tooltip.gameObject.transform.parent.gameObject.SetActive(true);
-                var props = GetComponent<NFIRSView>().feature.Properties;
-                tooltip.text = $"{props["address"]}\n{props["date"]}\n\n{props["description"]}";
+                var props = GetComponent<MarkerDataContainer>().feature.Properties;
+                tooltip.text = $"<size=25><b>{props["address"]}\n{props["date"]}</b></size>\n\n<size=20>{props["description"]}</size>";
             }
         }
-        this.transform.localScale = (new Vector3(50,50,50)) * (CameraController.adjustBy*2);
+        this.transform.localScale = (new Vector3(50,50,50)) * (TopDownCameraController.scaleMovementByZoomFactor*2);
     }
 }
