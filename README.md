@@ -44,5 +44,5 @@ Pressing `SPACE` allows you to switch into freecam mode, teleporting you to the 
 1. 3D tiles from Cesium's Google Earth integration.
 ![Example of freecam in 3D mode](3d_mode_img.png)
 
-2. 2D tiles with street labels from Bing Maps
+2. 2D tiles with street labels from Bing Maps.
 ![Example of Bing Maps in 2D mode](2d_mode_img.png)
