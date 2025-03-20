@@ -14,7 +14,7 @@ Google Maps [Geocoding API](https://developers.google.com/maps/documentation/geo
 
 This file is then imported to Unity and overlaid onto Cesium 3D tiles for an interactive data viewer:
 
-## Step 1: Raw NFIRS data:
+## Step 1: Raw NFIRS data import and cleaning
 <img src="nfirs_raw_image.png" alt="Screenshot of the NFIRS data table" width="75%" height="75%" />
 
 This data, along with accompanying `incidentaddress` and `codelookup` tables, is cleaned and preprocessed using a [Jupyter notebook](.nfirs_data_notebooks/1_fire_data.ipynb), replacing all alphanumeric codes with plaintext English.
@@ -23,7 +23,7 @@ For example, `NO_SPR_OP=2` is changed to "**Number of Sprinklers Operating: 2**"
 
 The address of each building fire is also parsed out from individual columns.
 
-## Step 2:
+## Step 2: Geocoding via Google Maps API
 
 [Jupyter notebook #2](.nfirs_data_notebooks/2_geocode.ipynb.ipynb) sends each address through the Google Maps [Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview), retrieving the longitude and latitude coordinate pairs.
 
@@ -31,7 +31,7 @@ After combining each year's data using [Jupyter notebook #3](.nfirs_data_noteboo
 
 **View the GeoJSON file on a 2D interactive map:** [fires-2020-23.json](https://github.com/alexvng/nfirs-unity-visualization/blob/02e6b9596ff596484bbc59d7a34b50621132f667/Assets/fires-2020-23.json)
 
-## Step 3:
+## Step 3: Building the Unity viewer
 
 I import the GeoJSON file to Unity and place the coordinates onto Cesium 3D tiles as a `FireMarker` Prefab, which pipes data to the mouseover tooltip.
 
