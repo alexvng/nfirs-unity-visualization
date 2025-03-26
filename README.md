@@ -6,9 +6,9 @@ This is a Python + Unity project which extracts information about building fires
 
 ## Demo .gifs
 
-![.gif of Unity project #1](./unity_recording.gif)
+![.gif of Unity project #1](./.img/unity_recording.gif)
 
-![.gif of Unity project #2](./unity_recording2.gif)
+![.gif of Unity project #2](./.img/unity_recording2.gif)
 
 ## Summary
 
@@ -19,7 +19,7 @@ Google Maps [Geocoding API](https://developers.google.com/maps/documentation/geo
 This file is then imported to Unity and overlaid onto Cesium 3D tiles for an interactive data viewer with tooltips and date filtering.
 
 ## Step 1: Raw NFIRS data import and cleaning
-<img src="nfirs_raw_image.png" alt="Screenshot of the NFIRS data table" width="75%" height="75%" />
+<img src="./.img/nfirs_raw_image.png" alt="Screenshot of the NFIRS data table" width="75%" height="75%" />
 
 This data, along with accompanying `incidentaddress` and `codelookup` tables, is cleaned and preprocessed using a [Jupyter notebook](.nfirs_data_notebooks/1_fire_data.ipynb), replacing all alphanumeric codes with plaintext English.
 
@@ -41,15 +41,15 @@ I import the GeoJSON file to Unity and place the coordinates onto Cesium 3D tile
 
 Here is an example of a minor fire in the INTDS building at Arizona State University.
 
-<img src="tooltip_img.png" alt="Example of tooltip" width="50%" height="50%" />
+<img src="./.img/tooltip_img.png" alt="Example of tooltip" width="50%" height="50%" />
 
 Pressing `SPACE` allows you to switch into freecam mode, teleporting you to the point at the center of your screen. Pressing `1` and `2` toggles the map tiles provider:
 
 1. 3D tiles from Cesium's Google Earth integration.
-<img src="3d_mode_img.png" alt="Example of freecam in 3D mode" width="60%" height="60%" />
+<img src="./.img/3d_mode_img.png" alt="Example of freecam in 3D mode" width="60%" height="60%" />
 
 2. 2D tiles with street labels from Bing Maps.
-<img src="2d_mode_img.png" alt="Example of Bing Maps in 2D mode" width="40%" height="40%" />
+<img src="./.img/2d_mode_img.png" alt="Example of Bing Maps in 2D mode" width="40%" height="40%" />
 
 ## Next steps
 
